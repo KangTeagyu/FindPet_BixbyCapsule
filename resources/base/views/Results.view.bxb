@@ -1,0 +1,42 @@
+result-view {
+  // This view is used to show the SpaceResort details when the user select a space resort from a summary list. This follows the design paradigm to go from Summary to Details
+  match {
+    Results (results)
+  }
+  message{
+    template ("꼭 찾으셨으면 좋겠어요."){
+      speech("꼭 찾으셨으면 좋겠어요.")}
+    }
+  render {
+    if(size(results)>1){
+      list-of (results) {
+        has-details (true)
+        where-each (results) {
+          layout-macro (findpet-highlight) {
+            param (results) {
+              expression (results)
+            }
+          }
+        }
+      }
+     }else-if (size(results) == 1) {
+      layout{
+        layout-macro (findpet-details) {
+          param (results) {
+            expression (results)
+                  }
+                 }
+                }
+               }
+              }
+              
+  
+    
+  conversation-drivers {
+      conversation-driver {
+        template ("개 검색결과 보여줘")
+      }
+    }
+  
+}
+

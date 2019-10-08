@@ -1,0 +1,16 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (Date_Convert) {
+      accepted-inputs (myDate_Start, myDate_End)
+      local-endpoint (dateConvert.js)
+    }
+    action-endpoint (Select_Kind) {
+     accepted-inputs (kindsCategory)
+      local-endpoint (select_Kind.js)
+    }
+    action-endpoint (httpCall) {
+      accepted-inputs (inputDate, kinds)
+      local-endpoint (httpCall.js) 
+    }
+  }
+}

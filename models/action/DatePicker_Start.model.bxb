@@ -1,0 +1,16 @@
+action (DatePicker_Start) {
+  type (Search)
+  description (A test action)
+  collect {
+    input (myDate_End) {
+      type (MyDate_End)
+      min (Required) max (One)
+    }
+  }
+  output (MyDate_End) {
+    evaluate {
+      $expr (myDate_End)
+    }
+  }
+}
+//날짜 선택하는 레이아웃을 위한 

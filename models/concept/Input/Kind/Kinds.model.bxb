@@ -1,0 +1,5 @@
+enum (Kinds) {
+  symbol (Dog)
+  symbol (Cat)
+  symbol (Etc)
+}

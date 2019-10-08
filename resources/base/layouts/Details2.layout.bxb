@@ -1,0 +1,28 @@
+//백업용임
+layout-macro-def (findpet-details2) {
+  params {
+    param (results) {
+      type (Results)
+      min (Required) max (One)
+    }
+  }
+   content {
+    section {
+      title {
+        template ("#{value(results.age)}")
+      }
+      content {
+        single-line {
+          text {
+            value ("#{value(results.age)}")
+            style (Detail_M)
+          }
+        }
+        paragraph {
+          value ("#{value(results.age)}")
+          style (Detail_M)
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+action (Date_Convert) {
+  description (날짜 형식 변환)
+  type(Constructor)
+  collect {
+    input (myDate_Start) {
+      type (MyDate_Start)
+      min (Required) max (One)
+    }
+   input (myDate_End) {
+      type (MyDate_End)
+      min (Required) max (One)
+    }
+  }
+  output (InputDate)
+}
+//DatePicker를 통해서 날짜형식은 API에서 인식할 수 없음
+//따라서 API에서 인식할 수 있게 형식을 바꿔주는 Action

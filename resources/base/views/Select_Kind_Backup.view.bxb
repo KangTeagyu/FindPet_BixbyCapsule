@@ -1,0 +1,30 @@
+// input-view {
+//   //match: Kinds (kinds){
+//     to-input: httpCall (action)
+//   }
+
+//   message (동물의 종류를 선택해주세요.)
+
+//   render {
+//     selection-of (kinds) {
+//       where-each (kinds) {
+//         layout-macro (kinds-image-card) {
+//           param (kinds) {
+//             expression (kinds)
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+//render - param은 여기의 param과 동일하게
+//expression은 match와
+
+// layout-macro-def (kinds-image-card) {
+//   params {
+//     param (kinds) {
+//       type (Kinds)
+//       min (Required) max (One)
+//     }
+//   }

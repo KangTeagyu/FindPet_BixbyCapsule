@@ -1,0 +1,92 @@
+structure (Results) {
+  description (Show Results)
+  property (age) {
+    type (Age)
+    min (Optional) max (Many)
+  }
+  property (careNm) {
+    type (CareNm)
+    min (Optional) max (Many)
+  }
+  property (sexCd) {
+    type (SexCd)
+    min (Optional) max (Many)
+  }
+  property (kindCd) {
+    type (KindCd)
+    min (Optional) max (Many)
+  }
+  property (processState) {
+    type (ProcessState)
+    min (Optional) max (Many)
+  }
+  property (noticeNo) {
+    type (NoticeNo)
+    min (Optional) max (Many)
+  }
+  property (careAddr) {
+    type (CareAddr)
+    min (Optional) max (Many)
+  }
+  property (noticeSdt) {
+    type (NoticeSdt)
+    min (Optional) max (Many)
+  }
+  property (weight) {
+    type (Weight)
+    min (Optional) max (Many)
+  }
+  property (chargeNm) {
+    type (ChargeNm)
+    min (Optional) max (Many)
+  }
+   property (desertionNo) {
+    type (DesertionNo)
+    min (Optional) max (Many)
+  }
+   property (careTel) {
+    type (CareTel)
+    min (Optional) max (Many)
+  }
+   property (happenPlace) {
+    type (HappenPlace)
+    min (Optional) max (Many)
+  }
+  property (officetel) {
+    type (Officetel)
+    min (Optional) max (Many)
+  }
+  property (orgNm) {
+    type (OrgNm)
+    min (Optional) max (Many)
+  }
+  property (filename) {
+    type (Filename)
+    min (Optional) max (Many)
+  }
+  property (popfile) {
+    type (Popfile)
+    min (Optional) max (Many)
+  }
+  property (noticeEdt) {
+    type (NoticeEdt)
+    min (Optional) max (Many)
+  }
+  property (neuterYn) {
+    type (NeuterYn)
+    min (Optional) max (Many)
+  }
+  property (specialMark) {
+    type (SpecialMark)
+    min (Optional) max (Many)
+  }
+  property (colorCd) {
+    type (ColorCd)
+    min (Optional) max (Many)
+  }
+  property (happenDt) {
+    type (HappenDt)
+    min (Optional) max (Many)
+  }
+  
+}

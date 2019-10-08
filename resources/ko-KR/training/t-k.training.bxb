@@ -1,0 +1,5 @@
+train (t-knb3my4ubgkixsyefllvdrubn) {
+  utterance ([g:httpCall] 유기견보호소 실행시켜줘)
+  plan (Y2BmkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZmBiYARiBiDJyMAAowE=)
+  last-modified (1570378784735)
+}

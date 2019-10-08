@@ -1,0 +1,27 @@
+capsule {
+  id (inha_bixby.findpet2)
+  version (0.1.0)
+  format (3)
+  targets {
+    //target (bixby-mobile-en-US)
+    target (bixby-mobile-ko-KR)
+  }
+  capsule-imports {
+    import (viv.entity) { version(3.19.8) as (entity)  }
+    import (viv.time) { as (time) version-from (entity) }
+    import (viv.core) {
+      as (core)
+    }
+    import (viv.common) {
+      as (common) version-from (entity)
+    }
+    import (viv.image) {
+      as (image) version-from (common)
+    }
+  }
+  runtime-flags {
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+}

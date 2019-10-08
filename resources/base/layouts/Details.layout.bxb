@@ -1,0 +1,140 @@
+layout-macro-def (findpet-details) {
+  params {
+    param (results) {
+      type (Results)
+      min (Required) max (One)
+    }
+  }
+  content{
+      section {
+        content {
+          title-area {
+            halign (Center)
+            slot1 {
+              text {
+                value ("동물보호관리 시스템")
+                style (Title_L)
+              }
+            }
+            slot2 {
+              single-line {
+                text {
+                  value ("유기동물 상세정보")
+                  style (Title_XS)
+                }
+              }
+            }
+          }
+        compound-card {
+          content {
+              image-card {
+                  aspect-ratio (4:3)
+                  image-url ("#{value(results.popfile)}")
+                  title-area {
+                      halign (Start)
+                      slot1 {
+                          text {
+                          value ("")
+                          style (Title_M)
+                          }
+                      }
+                  }
+              }
+              single-line {
+                  text {
+                      value {
+                          template ("#{value(results.careNm)}") // Fields of America for Fall
+                      }
+                      style (Title_M)
+                  }
+              }
+              paragraph {
+                  value {
+                  template ("#{value(results.careAddr)}") // $39.99 - $59.99
+                  }
+                  style (Detail_L)
+              }
+              single-line {
+                  text {
+                      value {
+                          template ("전화번호: #{value(results.careTel)}") // Same Day Delivery
+                      }
+                      style (Detail_M_Soft)
+                  }
+              }
+          }
+      }
+          partitioned {
+            content {
+              single-line {
+                text {
+                  value ("품종: #{value(results.kindCd)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text {
+                  value ("색상: #{value(results.colorCd)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text { 
+                  value ("성별: #{value(results.sexCd)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text {
+                  value ("중성화여부: #{value(results.neuterYn)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text {
+                  value ("나이/체중: #{value(results.age)} / #{value(results.weight)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text {
+                  value ("접수일시: #{value(results.happenDt)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text {
+                  value ("발생장소: #{value(results.happenPlace)}")
+                  style (Detail_L)
+                }
+              }
+            single-line {
+                text {
+                  value ("특징: #{value(results.specialMark)}")
+                  style (Detail_L)
+                }
+              }
+            }
+          }
+         single-line {
+                text {
+                  value (" ")
+                  style (Title_M)
+              }
+            }
+        single-line {
+                text {
+                  value (" ")
+                  style (Title_M)
+              }
+            }
+        single-line {
+                text {
+                  value ("*해당 정보는 동물보호관리시스템에서 제공받았습니다.")
+                  style (Detail_M_Soft)
+            }
+          }
+        }
+      }
+    }
+  }

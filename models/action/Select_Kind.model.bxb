@@ -1,0 +1,14 @@
+action (Select_Kind) {
+  type (Search)
+  description (동물 종류 선택)
+  collect {
+    input (kindsCategory) {
+      type (Kinds)
+      min (Required) max (One)
+    }
+  }
+  output (Kinds)
+    // evaluate {
+    //   $expr (kindsList)
+    // }
+}
