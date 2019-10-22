@@ -1,0 +1,5 @@
+train (t-wnwrwmc0j7nwuin3u5n0tqv6q) {
+  utterance ("[g:httpCall] (고양이)[v:Kinds:Cat] 검색결과 보여줘")
+  plan (Y2BmkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZmBiYARiBiDJyAACUD4A)
+  last-modified (1571726702218)
+}

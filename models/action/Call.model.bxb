@@ -1,0 +1,11 @@
+action (Call) {
+  description (CALL을 통하여 app-lauch를 실행하는 action입니다)
+  type(Constructor)
+  collect {
+    input (careTel) {
+      type (CareTel)
+      min (Optional) max (One)
+    }
+  }
+  output (Tel)
+}

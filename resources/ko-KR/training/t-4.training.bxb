@@ -1,0 +1,5 @@
+train (t-44i5dqcthj4ud1n7l14u84vmf) {
+  utterance ("[g:inha_bixby.findpet2.httpCall] (강이지)[v:Kinds:Dog] 검색결과 보여줘")
+  plan (Y2BmkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZmBiYARiBiDJyAACUD4A)
+  last-modified (1571726866972)
+}

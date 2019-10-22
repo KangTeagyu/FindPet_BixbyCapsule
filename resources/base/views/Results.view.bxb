@@ -33,10 +33,16 @@ result-view {
   
     
   conversation-drivers {
-      conversation-driver {
-        template ("개 검색결과 보여줘")
-      }
+     conversation-driver {
+      template ("개 검색결과 보여줘")
     }
+    conversation-driver {
+      template ("고양이 검색결과 보여줘")
+    }
+    conversation-driver {
+      template ("기타동물 검색결과 보여줘")
+    }
+  }
   
 }
 

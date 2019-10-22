@@ -1,0 +1,5 @@
+train (t-x3b04e94ooc8vhfdq7iatkdox) {
+  utterance ("[g:httpCall] (개)[v:Kinds:Dog] 검색결과 보여줘")
+  plan (Y2BmkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZmBiYARiBiDJyAACUD4A)
+  last-modified (1571726895877)
+}

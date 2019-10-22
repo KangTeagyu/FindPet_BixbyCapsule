@@ -7,7 +7,7 @@ capsule {
     target (bixby-mobile-ko-KR)
   }
   capsule-imports {
-    import (viv.entity) { version(3.19.8) as (entity)  }
+    import (viv.entity) { version(3.21.0) as (entity)  }
     import (viv.time) { as (time) version-from (entity) }
     import (viv.core) {
       as (core)
@@ -19,7 +19,13 @@ capsule {
       as (image) version-from (common)
     }
   }
+    permissions{
+    user-profile-access
+  }
   runtime-flags {
+    use-input-views-for-selection-list-detail
+    no-filtering-with-validation
+    modern-default-view-behavior
     concepts-inherit-super-type-features
     modern-prompt-rejection
     support-halt-effect-in-computed-inputs

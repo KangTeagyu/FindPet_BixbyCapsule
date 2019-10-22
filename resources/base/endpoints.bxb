@@ -12,5 +12,9 @@ endpoints {
       accepted-inputs (inputDate, kinds)
       local-endpoint (httpCall.js) 
     }
+    action-endpoint (Call) {
+      accepted-inputs (careTel)
+      local-endpoint (call.js) 
+    }
   }
 }

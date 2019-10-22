@@ -1,25 +1,9 @@
+//20191021 httpCall.js 변경
 module.exports.function = function httpCall (inputDate, kinds){
   var http = require('http')
   var console = require('console')
-  var pageNum_local = 1
-  
-  
   var ServiceKey = "FPG2e4FPk/9gfHfsfjr68sF4wtwmsWd2lTak4KJabkBLKMvd+XDnG1JoqoZ1D/riVxwpQUP3p/CvUQWk195e2Q=="
-  var options= {
-    format: 'xmljs',
-    returnHeader : true,
-    query: {
-     bgnde : inputDate.bgnde_Convert,
-     endde : inputDate.endde_Convert,
-     pageNo : pageNum_local,
-     numOfRows: 1 }
-  }
  
-  //최초로 불러와서 totalcount를 알아냄
-  var first_result =  http.getUrl("http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?bgnde=20140301&endde=20140430&pageNo=1&numOfRows=10&ServiceKey=" + ServiceKey, options)
-  var total_PageNum = first_result.response.body.totalCount
-  console.log(first_result.response.body.totalCount)
-  console.log(total_PageNum)
 //results는 결과값을 담을 리스트
   var results = []
 
@@ -33,10 +17,6 @@ module.exports.function = function httpCall (inputDate, kinds){
     }else if (kinds == 'Etc') {
       kinds = 429900}
   
-
-
-
-
   var options= {
     format: 'xmljs',
     returnHeader : true,
@@ -45,22 +25,27 @@ module.exports.function = function httpCall (inputDate, kinds){
     endde : inputDate.endde_Convert,
     pageNo : 1,
     upkind: kinds, //동물의 종류 
-    numOfRows: total_PageNum }
+    numOfRows: 500 }
   }
     var results = http.getUrl("http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?bgnde=20140301&endde=20140430&pageNo=1&numOfRows=10&ServiceKey=" + ServiceKey, options)
-    console.log(results.response.body.items.item)
-    //results.push(result.response.body.items.item)
-  //}
-  //여기부터
+  //Value compilation error 있는 item 찾기
+  for(var i = 0; i < 100; i++){
+    if(!results.response.body.items.item[i].specialMark){
+      console.log(i,"비었음")}}
 
 
+  console.log(typeof(results.response.body.items.item))
+//Value compilation error 처리하기 위한 코드 
+//specialMark 속성이 없는 item 에 "specialMark : 없음" 속성 추가 
+  for(var i = 0; i < results.response.body.items.item.length; i++) {
+    if (!results.response.body.items.item[i].specialMark) {
+      results.response.body.items.item[i].specialMark = '없음'
+    }
+  }
 
-  //var resultList = [].concat(results.items)
   
-  
-  console.log("results:",results)
-  console.log(results.response.body.items.item)
-//아래 코드는 성별, 중성화 여부에 대하여 단순 알파벳 => 한글로
+//아래 코드는 성별, 중성화 여부에 대하여 단순 알파벳으로 표기되는 것을 사용자가 알기 쉽게 한글로 변환
+//ex) 성별: F => 성별: 암컷, 성별: Q => 성별: 미상
   for(var i = 0; i < results.response.body.items.item.length; i++) {
     if (results.response.body.items.item[i].sexCd == 'M') {
       results.response.body.items.item[i].sexCd = '수컷'
@@ -81,7 +66,8 @@ module.exports.function = function httpCall (inputDate, kinds){
       results.response.body.items.item[i].neuterYn = '미상'
     }
   }
-  console.log(results.response.body.items.item[0].neuterYn)
+  //잘 변경되었나 확인
+  console.log("변경값 확인", results.response.body.items.item[38].specialMark)
   
   
   return results.response.body.items.item

@@ -128,6 +128,24 @@ layout-macro-def (findpet-details) {
                   style (Title_M)
               }
             }
+        cell-card{
+               
+              slot2{
+                content{
+                  primary("해당 보호소로 전화 걸기")
+                
+                }
+                
+              }
+              
+
+              on-click{
+                intent{
+                  goal: Call
+                  value: $expr(results.careTel)
+                }
+              }
+               }    
         single-line {
                 text {
                   value ("*해당 정보는 동물보호관리시스템에서 제공받았습니다.")

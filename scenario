@@ -1,21 +1,36 @@
 유기견 보호소 실행해줘
 
-1. DatePicker를 통해 검색시작날짜, 검색종료날짜를 사용자로부터 입력받음
+1. DatePicker를 통해 검색시작날짜, 검색종료날짜를 사용자로부터 입력받음 
 2. 입력받은 검색시작날짜, 검색종료날짜를 동물보호관리시스템 API에서 인식할수 있게 변환해줌 (Date_Convert, dateConvert.js)
-3. operationPage를 통해 결과값을 불러옴(bgnde: 검색시작날짜, endde: 검색종료날짜, pageNo : 결과페이지 넘버(null이면 한페이지만 나옴))
-4. 레이아웃을 통해 보여줌
-5. 다음(plus)페이지, 이전(minus)페이지 발화실행 => operationPage에 있는 Operator에 plus나 minus가 들어가고 pageNum이 한페이지 늘어나거나 줄어듬
-
-현재 문제...
-1. training에서 operationPage를 보여줘라고 했을 때 Date_Convert액션이 실행되고 난후에 operationPage가 실행되었으면 좋겠는데 그러지 않습니다 ㅠ 
-2. training에서 "다음(plus로 value지정) 페이지" / Goal : operationPage  를 train시키고 싶은데 save는 되지만 complied NL model 을 눌러도 not learnd 상태가 지속됩니다.. 
-
-후.. 며칠동안 최대한 다른 캡슐들을 보면서 시도해보았으나.. 혼자힘으로는 잘 되지 않아 이렇게 문의 드립니다... 
+3. httpCall을 통해 결과값을 불러옴(bgnde: 검색시작날짜, endde: 검색종료날짜, pageNo : 결과페이지 넘버(null이면 한페이지만 나옴))
+4. 레이아웃을 통해 보여줌.
+5. 추가적인 대화를 통해 해당 보호소로 전화.
+6. 지역별 검색은 시간이 되면 추가할 예정.
 
 ----------------------------------------------------------------------------------------------------------------------
+20191021
+
+
+* 데이터 불러오기 관련 : 전 버전에서는 한 달 동안의 데이터들을 불러오면 데이터들이 너무 많아 time out 되는 경우가 발생했음
+따라서 검색시작날짜를 기준으로 (500개의 데이터 or 1주일 후까지의 데이터) 를 불러올까 생각중임.
+이 부분은 추후 상의해서 해결
+
+* httpCall.js 에서 불필요한 코드 삭제
+
+* value compilation error 해결 완료
+유기견 보호소 api에 등록된 데이터 중 SpecialMark가 없는 데이터가 종종 있었음.(입력자 입장에서 Optional 인것 같음)
+이런 데이터 때문에 value compilation error가 발생하였는데 SpecialMark 가 없는 item에 대하여 "SpecialMark: 없음"을 추가하여
+이를 해결하였음.
+
+*앞으로 해야할점 :
+1. train 시키기
+2. 해당 보호소로 전화하기 기능 
+3. 지역별... 검색?(시간 되면 할 예정)
+
+
 20190902
 
--오늘 변경 방안-
+* 오늘 변경 방안 :
 본래는 페이지를 업데이트 하면서 보여주려고 했으나 그러기에는 개발자 자신과, 사용자에게도 상당히 자원이 소모되는 방향이라고 판단했음.
 따라서 모든 결과값을 모두 불러오는 방향으로 변경하였음
 더하여 검색 시작날짜, 종료날짜 견종을 input받을 예정임
@@ -23,7 +38,7 @@
 그렇게 되면 요청되는 결과값들이 현저히 줄어들 것이기 때문에 효율적으로 불러올 수 있을 것임. 
 
 
--현재 발생하는 에러-
+* 현재 발생하는 에러 :
 
 Value Compilation Error: EmptyOptionalValue
 ./SpecialMark
@@ -34,3 +49,13 @@ Value Compilation Error: EmptyOptionalValue
 -뒤로가기-
 
 상세정보에서 뒤로가기
+
+201908
+
+* 현재 문제...
+1. training에서 operationPage를 보여줘라고 했을 때 Date_Convert액션이 실행되고 난후에 operationPage가 실행되었으면 좋겠는데 그러지 않습니다 ㅠ 
+2. training에서 "다음(plus로 value지정) 페이지" / Goal : operationPage  를 train시키고 싶은데 save는 되지만 complied NL model 을 눌러도 not learnd 상태가 지속됩니다.. 
+
+후.. 며칠동안 최대한 다른 캡슐들을 보면서 시도해보았으나.. 혼자힘으로는 잘 되지 않아 이렇게 문의 드립니다... 
+
+
