@@ -8,4 +8,7 @@ structure (InputDate) {
     type (Endde_Convert)
     min (Optional) max (One)
   }
+  features{
+  transient
+  }
 }
