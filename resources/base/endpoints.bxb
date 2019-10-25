@@ -1,19 +1,19 @@
 endpoints {
   action-endpoints {
     action-endpoint (Date_Convert) {
-      accepted-inputs (myDate_Start, myDate_End)
+      accepted-inputs (myDate_Start, myDate_End, kindsCategory, inputDate, kinds, careTel)
       local-endpoint (dateConvert.js)
     }
     action-endpoint (Select_Kind) {
-     accepted-inputs (kindsCategory)
+     accepted-inputs (myDate_Start, myDate_End, kindsCategory, inputDate, kinds, careTel)
       local-endpoint (select_Kind.js)
     }
     action-endpoint (httpCall) {
-      accepted-inputs (inputDate, kinds)
+      accepted-inputs (myDate_Start, myDate_End, kindsCategory, inputDate, kinds, careTel)
       local-endpoint (httpCall.js) 
     }
     action-endpoint (Call) {
-      accepted-inputs (careTel)
+      accepted-inputs (myDate_Start, myDate_End, kindsCategory, inputDate, kinds, careTel)
       local-endpoint (call.js) 
     }
   }
