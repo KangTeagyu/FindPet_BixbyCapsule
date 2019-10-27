@@ -6,10 +6,10 @@ action (Date_Convert) {
       type (MyDate_Start)
       min (Required) max (One)
     }
-   input (myDate_End) {
-      type (MyDate_End)
-      min (Required) max (One)
-    }
+  //  input (myDate_End) {
+  //     type (MyDate_End)
+  //     min (Required) max (One)
+  //   }
   }
   output (InputDate)
 }

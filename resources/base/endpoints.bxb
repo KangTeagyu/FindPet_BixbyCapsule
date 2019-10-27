@@ -1,7 +1,7 @@
 endpoints {
   action-endpoints {
     action-endpoint (Date_Convert) {
-      accepted-inputs (myDate_Start, myDate_End)
+      accepted-inputs (myDate_Start)//, myDate_End
       local-endpoint (dateConvert.js)
     }
     action-endpoint (Select_Kind) {

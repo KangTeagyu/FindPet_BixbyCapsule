@@ -29,9 +29,7 @@ module.exports.function = function httpCall (inputDate, kinds){
   }
     var results = http.getUrl("http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?bgnde=20140301&endde=20140430&pageNo=1&numOfRows=10&ServiceKey=" + ServiceKey, options)
   //Value compilation error 있는 item 찾기
-  for(var i = 0; i < 100; i++){
-    if(!results.response.body.items.item[i].specialMark){
-      console.log(i,"비었음")}}
+
 
 
   console.log(typeof(results.response.body.items.item))
@@ -42,6 +40,9 @@ module.exports.function = function httpCall (inputDate, kinds){
       results.response.body.items.item[i].specialMark = '없음'
     }
   }
+  for(var i = 0; i < results.response.body.items.item.length; i++){
+  if(!results.response.body.items.item[i].specialMark){
+    console.log(i,"비었음")}}
 
   
 //아래 코드는 성별, 중성화 여부에 대하여 단순 알파벳으로 표기되는 것을 사용자가 알기 쉽게 한글로 변환
@@ -67,10 +68,8 @@ module.exports.function = function httpCall (inputDate, kinds){
     }
   }
   //잘 변경되었나 확인
-  console.log("변경값 확인", results.response.body.items.item[38].specialMark)
+  console.log(results.response.body.items.item)
   
   
   return results.response.body.items.item
 }
-
-//results.result.response.body.items.item
