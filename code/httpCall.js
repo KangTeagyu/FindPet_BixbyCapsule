@@ -75,3 +75,4 @@ module.exports.function = function httpCall (inputDate, kinds, find){
 }
 
 //results.result.response.body.items.item
+//http://www.convertstring.com/ko/EncodeDecode/UrlDecode 서비스키 인코딩 디코딩

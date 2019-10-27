@@ -1,0 +1,5 @@
+train (t-q3ywbtqln4ilg0v1wagm57bj5) {
+  utterance ("[g:httpCall] (냥이)[v:Kinds:Cat] (찾아)[v:find:findby]")
+  plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1572183204954)
+}

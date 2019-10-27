@@ -1,8 +1,0 @@
-vocab(Operator) {
- "plus" {
- "다음"
- }
- "minus" {
- "이전"
- }
-}

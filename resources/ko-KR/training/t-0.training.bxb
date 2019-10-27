@@ -1,0 +1,5 @@
+train (t-0rmi9og2qmv5ru8d1zbp2ubo8) {
+  utterance ("[g:httpCall] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1572183157636)
+}
