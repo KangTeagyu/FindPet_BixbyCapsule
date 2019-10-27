@@ -1,5 +1,5 @@
 //20191021 httpCall.js 변경
-module.exports.function = function httpCall (inputDate, kinds){
+module.exports.function = function httpCall (inputDate, kinds, find){
   var http = require('http')
   var console = require('console')
   var ServiceKey = "FPG2e4FPk/9gfHfsfjr68sF4wtwmsWd2lTak4KJabkBLKMvd+XDnG1JoqoZ1D/riVxwpQUP3p/CvUQWk195e2Q=="
@@ -25,7 +25,7 @@ module.exports.function = function httpCall (inputDate, kinds){
     endde : inputDate.endde_Convert,
     pageNo : 1,
     upkind: kinds, //동물의 종류 
-    numOfRows: 500 }
+     }//numOfRows: 500
   }
     var results = http.getUrl("http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?bgnde=20140301&endde=20140430&pageNo=1&numOfRows=10&ServiceKey=" + ServiceKey, options)
   //Value compilation error 있는 item 찾기
@@ -73,3 +73,5 @@ module.exports.function = function httpCall (inputDate, kinds){
   
   return results.response.body.items.item
 }
+
+//results.result.response.body.items.item

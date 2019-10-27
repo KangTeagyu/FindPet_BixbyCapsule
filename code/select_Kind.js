@@ -1,4 +1,4 @@
-module.exports.function = function selectCategory (kindsCategory) { //kindsList는 Select_Kind action의 input값
+module.exports.function = function selectCategory (kindsCategory, find) { //kindsList는 Select_Kind action의 input값
   // 다른 경로의 파일을 호출
   const kindsList = require("./lib/kindsList.js");
   const console = require('console');

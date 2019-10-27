@@ -5,11 +5,11 @@ endpoints {
       local-endpoint (dateConvert.js)
     }
     action-endpoint (Select_Kind) {
-     accepted-inputs (kindsCategory)
+     accepted-inputs (kindsCategory, find)
       local-endpoint (select_Kind.js)
     }
     action-endpoint (httpCall) {
-      accepted-inputs (inputDate, kinds)
+      accepted-inputs (inputDate, kinds, find)
       local-endpoint (httpCall.js) 
     }
     action-endpoint (Call) {
