@@ -1,7 +1,7 @@
 hints {
   uncategorized {
     utterance (고양이 찾아줘)
-    utterance (또하나의가족 실행해줘)
     utterance(강아지 검색결과 보여줘)
+    utterance(애완동물 찾아줘)
   }
 }

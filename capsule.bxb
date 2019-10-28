@@ -24,6 +24,7 @@ capsule {
   }
   store-sections{
     section (ArtAndLifestyle)
+    section (Utilities)
   }
 
   runtime-flags {

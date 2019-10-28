@@ -1,0 +1,5 @@
+template-macro-def (no_result) {
+  content {
+    template("이런! 검색 결과가 없습니다. 다른 조건으로 검색해 보시겠어요?")
+  }
+}
