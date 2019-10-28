@@ -1,0 +1,11 @@
+action (Url2) {
+  description (URL을 통하여 app-lauch를 실행하는 action입니다)
+  type(Constructor)
+  collect {
+    input (careAddr) {
+      type (CareAddr)
+      min (Optional) max (One)
+    }
+  }
+  output (URL2)
+}

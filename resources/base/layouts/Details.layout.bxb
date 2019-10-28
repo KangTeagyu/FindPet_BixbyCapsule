@@ -145,6 +145,42 @@ layout-macro-def (findpet-details) {
                   value: $expr(results.careTel)
                 }
               }
+               }
+               cell-card{
+               
+              slot2{
+                content{
+                  primary("잃어버린 장소 지도로 확인하기")
+                
+                }
+                
+              }
+              
+
+              on-click{
+                intent{
+                  goal: URL1
+                  value: $expr(results.happenPlace)
+                }
+              }
+               }
+               cell-card{
+               
+              slot2{
+                content{
+                  primary("보호장소 위치 지도로 확인하기")
+                
+                }
+                
+              }
+              
+
+              on-click{
+                intent{
+                  goal: URL2
+                  value: $expr(results.careAddr)
+                }
+              }
                }    
         single-line {
                 text {

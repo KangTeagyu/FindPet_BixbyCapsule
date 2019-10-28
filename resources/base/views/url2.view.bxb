@@ -1,0 +1,11 @@
+result-view {
+  match: URL2(this) //여기서 match는 액션이 아닌 결과값 concept과 매칭
+  
+ message{
+    template ("카카오맵으로 연결합니다."){
+      speech("카카오맵으로 연결합니다.")}
+    }
+  app-launch {
+    payload-uri ("#{value(this)}")
+  }
+}

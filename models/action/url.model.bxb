@@ -1,0 +1,11 @@
+action (Url1) {
+  description (URL을 통하여 app-lauch를 실행하는 action입니다)
+  type(Constructor)
+  collect {
+    input (happenPlace) {
+      type (HappenPlace)
+      min (Optional) max (One)
+    }
+  }
+  output (URL1)
+}

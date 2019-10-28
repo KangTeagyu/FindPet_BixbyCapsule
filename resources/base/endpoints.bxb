@@ -16,5 +16,13 @@ endpoints {
       accepted-inputs (careTel)
       local-endpoint (call.js) 
     }
+    action-endpoint (Url1) {
+      accepted-inputs (happenPlace)
+      local-endpoint (url.js) 
+    }
+    action-endpoint (Url2) {
+      accepted-inputs (careAddr)
+      local-endpoint (url2.js) 
+    }
   }
 }
