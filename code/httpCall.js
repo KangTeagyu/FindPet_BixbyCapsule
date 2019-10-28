@@ -1,7 +1,8 @@
 //20191021 httpCall.js 변경
-module.exports.function = function httpCall (inputDate, kinds, find){
+module.exports.function = function httpCall (inputDate, kinds, find, location){
   var http = require('http')
   var console = require('console')
+  const fail = require('fail');
   var ServiceKey = "FPG2e4FPk/9gfHfsfjr68sF4wtwmsWd2lTak4KJabkBLKMvd+XDnG1JoqoZ1D/riVxwpQUP3p/CvUQWk195e2Q=="
  
 //results는 결과값을 담을 리스트
@@ -16,6 +17,29 @@ module.exports.function = function httpCall (inputDate, kinds, find){
       kinds = 422400
     }else if (kinds == 'Etc') {
       kinds = 429900}
+
+
+  if (location == 'Seoul') {
+       location = 6110000
+    }else if (location == 'Busan') {
+      location = 6260000
+    }else if (location == 'Incheon') {
+      location = 6280000
+    }else if (location == 'Daegu') {
+      location = 6270000
+    }else if (location == 'Gwangju') {
+      location = 6290000
+    }else if (location == 'Sejong') {
+      location = 5690000
+    }else if (location == 'Daejeon') {
+      location = 6300000
+    }else if (location == 'Ulsan') {
+      location = 6310000
+    }else if (location == 'Gyeongi') {
+      location = 6410000
+    }else if (location == 'Gangwon') {
+      location = 6420000
+    }
   
   var options= {
     format: 'xmljs',
@@ -24,12 +48,19 @@ module.exports.function = function httpCall (inputDate, kinds, find){
     bgnde : inputDate.bgnde_Convert,
     endde : inputDate.endde_Convert,
     pageNo : 1,
+    upr_cd : location,
     upkind: kinds, //동물의 종류 
-     }//numOfRows: 500
+    numOfRows: 50}//
   }
     var results = http.getUrl("http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic?bgnde=20140301&endde=20140430&pageNo=1&numOfRows=10&ServiceKey=" + ServiceKey, options)
   //Value compilation error 있는 item 찾기
 
+    if(!results.response.body.items.item){
+    throw fail.checkedError("No Result", "NoResult");  
+  }
+    // if(kinds == 429900){
+    //   throw fail.checkedError("ETC", "ETC");
+    // }
 
 
   console.log(typeof(results.response.body.items.item))
@@ -74,5 +105,44 @@ module.exports.function = function httpCall (inputDate, kinds, find){
   return results.response.body.items.item
 }
 
+
 //results.result.response.body.items.item
 //http://www.convertstring.com/ko/EncodeDecode/UrlDecode 서비스키 인코딩 디코딩
+
+// <orgCd>6110000</orgCd>
+// <orgdownNm>서울특별시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6260000</orgCd>
+// <orgdownNm>부산광역시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6270000</orgCd>
+// <orgdownNm>대구광역시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6280000</orgCd>
+// <orgdownNm>인천광역시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6290000</orgCd>
+// <orgdownNm>광주광역시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>5690000</orgCd>
+// <orgdownNm>세종특별자치시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6300000</orgCd>
+// <orgdownNm>대전광역시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6310000</orgCd>
+// <orgdownNm>울산광역시</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6410000</orgCd>
+// <orgdownNm>경기도</orgdownNm>
+// </item>
+// <item>
+// <orgCd>6420000</orgCd>

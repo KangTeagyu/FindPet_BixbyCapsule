@@ -1,0 +1,5 @@
+train (t-3ohsg5rzbybc2njovqk5aqun2) {
+  utterance ("[g:httpCall] (강원도)[v:Location:Gangwon]에서 (냥냥이)[v:Kinds:Cat] (실행해줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572245366513)
+}

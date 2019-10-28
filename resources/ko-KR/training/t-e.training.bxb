@@ -1,0 +1,10 @@
+train (t-ey2djea0gtvtl1of1jm5hcz6c) {
+  utterance ("[g:httpCall] (서울특별시)[v:Location:Seoul]에서 (잃어버린개)[v:Kinds:Dog] (찾아주세요)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572241337569)
+}
+train (t-eywzozuekb3rwe5dn3amy0ldu) {
+  utterance ("[g:httpCall] (서울시)[v:Location:Seoul]에서 (유기견)[v:Kinds:Dog] (검색해줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572245138893)
+}

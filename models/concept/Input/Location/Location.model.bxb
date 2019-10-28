@@ -1,0 +1,16 @@
+enum (Location) {
+  description (__DESCRIPTION__)
+  symbol (Busan)
+  symbol (Daegu)
+  symbol (Daejeon)
+  symbol (Gangwon)
+  symbol (Gwangju)
+  symbol (Gyeongi)
+  symbol (Incheon)
+  symbol (Sejong)
+  symbol (Seoul)
+  symbol (Ulsan)
+    features{
+  transient
+  }
+}

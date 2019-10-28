@@ -3,3 +3,13 @@ train (t-q3ywbtqln4ilg0v1wagm57bj5) {
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
   last-modified (1572183204954)
 }
+train (t-qjy8cijr5n6ohro167jpn1ap1) {
+  utterance ("[g:httpCall] (부산광역시)[v:Location:Busan]에서 (닭)[v:Kinds:Etc] (궁금해)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572245212448)
+}
+train (t-qmtvogvw88eqot6wx3vrf0x8o) {
+  utterance ("[g:httpCall] (세종특별자치시)[v:Location:Sejong]에서 (기타)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572241548621)
+}

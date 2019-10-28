@@ -1,0 +1,44 @@
+// structure (Location_Backup) {
+//   description (__DESCRIPTION__)
+//   property (busan) {
+//     type (Busan)
+//     min (Optional) max (One)
+//   }
+//   property (seoul) {
+//     type (Seoul)
+//     min (Optional) max (One)
+//   }
+//   property (daegu) {
+//     type (Daegu)
+//     min (Optional) max (One)
+//   }
+//    property (daejeon) {
+//     type (Daejeon)
+//     min (Optional) max (One)
+//   }
+//   property (gangwon) {
+//     type (Gangwon)
+//     min (Optional) max (One)
+//   }
+//   property (gwangju) {
+//     type (Gwangju)
+//     min (Optional) max (One)
+//   }
+//   property (geyongi) {
+//     type (Gyeongi)
+//     min (Optional) max (One)
+//   }
+//   property (incheon) {
+//     type (Incheon)
+//     min (Optional) max (One)
+//   }
+//   property (ulsan) {
+//     type (Ulsan)
+//     min (Optional) max (One)
+//   }
+//   property (sejong) {
+//     type (Sejong)
+//     min (Optional) max (One)
+//   }
+  
+// }

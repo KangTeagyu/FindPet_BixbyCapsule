@@ -1,0 +1,5 @@
+train (t-lub47uo0q3dn5chgqop2cmtjj) {
+  utterance ("[g:httpCall] (서울)[v:Location:Seoul]에서 (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572245079185)
+}

@@ -1,0 +1,5 @@
+train (t-yf0iweq9mgzpyig4oy40n5ckb) {
+  utterance ("[g:httpCall] (대전시)[v:Location:Daejeon]에서 (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572241670911)
+}

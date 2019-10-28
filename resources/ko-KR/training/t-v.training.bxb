@@ -1,0 +1,5 @@
+train (t-v9cspb3qzjdxqq7fmktfi7hvp) {
+  utterance ("[g:httpCall] (광주)[v:Location:Gwangju]에서 (고양이)[v:Kinds:Cat] (검색해줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572240942448)
+}

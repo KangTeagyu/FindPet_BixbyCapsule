@@ -1,0 +1,14 @@
+capsule-info {
+  display-name (또하나의가족)
+  developer-name (Sanfrancisco)
+  icon-asset (images/family.png)
+  description ("유기견과 실종견을 검색합니다.")
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+  search-keywords {
+      keyword (유기견)
+      keyword (실종견)
+    }
+    dispatch-name(또하나의가족)
+
+}

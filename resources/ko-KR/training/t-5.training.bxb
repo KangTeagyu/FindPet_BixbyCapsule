@@ -1,0 +1,5 @@
+train (t-59dxm90d1hubwbymf6drwdzop) {
+  utterance ("[g:httpCall] (인천시)[v:Location:Incheon]에서 (잃어버린고양이)[v:Kinds:Cat] (결과보여줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572245550867)
+}

@@ -1,0 +1,10 @@
+train (t-8mobzjgit6u1pyslycbhou8ex) {
+  utterance ("[g:httpCall] (울산광역시)[v:Location:Ulsan]에서 (야옹이)[v:Kinds:Cat] (검색해줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572241397264)
+}
+train (t-8xl573phs43x8iuap4ozcgnem) {
+  utterance ("[g:httpCall] (세종시)[v:Location:Sejong]에서 (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572245485967)
+}

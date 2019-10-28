@@ -3,3 +3,8 @@ train (t-p2310txclynp7e1ne7l3slagp) {
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
   last-modified (1572179829926)
 }
+train (t-phlgb1cuj2wkz9v3m1einm2ez) {
+  utterance ("[g:httpCall] (인천광역시)[v:Location:Incheon]에서 (냥이)[v:Kinds:Cat] (보여주세요)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
+  last-modified (1572241578104)
+}

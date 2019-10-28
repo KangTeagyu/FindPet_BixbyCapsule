@@ -1,0 +1,5 @@
+train (t-z040hjrsrae1eqfmi8q4uko0p) {
+  utterance ("[g:httpCall] (서울)[v:Location:Seoul]에서 (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEAWYgGywDAA==)
+  last-modified (1572240486705)
+}
