@@ -1,5 +1,5 @@
 capsule {
-  id (httpcall.testt)
+  id (inha_bixby.findpet2)
   version (1.0.1)
   format (3)
   targets {
