@@ -4,7 +4,7 @@ action (Select_Kind) {
   collect {
     input (kindsCategory) {
       type (Kinds)
-      min (Required) max (One)
+      min (Optional) max (One)
     }
   }
   output (Kinds)

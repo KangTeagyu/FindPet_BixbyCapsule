@@ -1,0 +1,8 @@
+enum (KindDB) {
+  description (__DESCRIPTION__)
+  symbol (Golden Retriever)
+  symbol (mixed dog)
+  features{
+  transient
+  }
+}

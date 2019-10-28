@@ -1,0 +1,8 @@
+vocab(KindDB){
+ "Golden Retriever"{
+    "골든 리트리버"
+ }
+ "mixed dog"{
+   "믹스견"
+ }
+}

@@ -3,6 +3,11 @@ train (t-p2310txclynp7e1ne7l3slagp) {
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
   last-modified (1572179829926)
 }
+train (t-p75073o3btwglxwq20o7z8cah) {
+  utterance ("[g:httpCall] (골든 리트리버)[v:KindDB:'Golden Retriever'] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MghU3WG8hwcWKQxCVXzCCBTQrEYGBhYGRgYmAG0gxAFgTCADNYDigDAA==)
+  last-modified (1572265257920)
+}
 train (t-phlgb1cuj2wkz9v3m1einm2ez) {
   utterance ("[g:httpCall] (인천광역시)[v:Location:Incheon]에서 (냥이)[v:Kinds:Cat] (보여주세요)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
