@@ -8,6 +8,11 @@ train (t-ugkbs7j6410oxx8qf1x50y2xd) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353463505)
 }
+train (t-uknmrdwr3rhaj8x9pyatuswcf) {
+  utterance ("[g:httpCall] (브리티시 쇼트헤어)[v:KindDBcat:'British Shorthair'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360219613)
+}
 train (t-uq31f5wuc6ki9ydz22b41fn83) {
   utterance ("[g:httpCall] (복서)[v:KindDB:'Boxer'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)

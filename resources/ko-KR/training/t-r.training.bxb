@@ -13,3 +13,13 @@ train (t-rki5u49up228t7awmgmzir6vx) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353691882)
 }
+train (t-ron0qajfeeoskmkc76leijvew) {
+  utterance ("[g:httpCall] (메인쿤)[v:KindDBcat:'Maine Coon'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359666165)
+}
+train (t-rq2qce9cw1sx9uxpbes9yjre1) {
+  utterance ("[g:httpCall] (스노우 슈)[v:KindDBcat:'Snow shoe'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360483685)
+}

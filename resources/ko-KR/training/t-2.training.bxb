@@ -3,6 +3,11 @@ train (t-206l6zyqzr3hmh1qgws2dv23v) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572352031932)
 }
+train (t-21faajjff6bzk1zkfr05bekt0) {
+  utterance ("[g:httpCall] (셀커크 렉스)[v:KindDBcat:'Selkirk Rex'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360389563)
+}
 train (t-24apx6aondmfrfuajkr5ykkxg) {
   utterance ("[g:httpCall] (빠삐용)[v:KindDB:'Pappiyong'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
@@ -17,6 +22,11 @@ train (t-2kg6f24kbuvwx1kql5k1eezoi) {
   utterance ("[g:httpCall] (미니어쳐 핀셔)[v:KindDB:'Miniature Finisher'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572352218308)
+}
+train (t-2r6ey65vpv293kejs2mtk7w5m) {
+  utterance ("[g:httpCall] (페르시안-페르시안 친칠라)[v:KindDBcat:'Persian-Persian Chinchilla'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360753692)
 }
 train (t-2rqt93l584evcr6c5unu8g3l7) {
   utterance ("[g:httpCall] (아메리칸 스태퍼드셔 테리어)[v:KindDB:'American Staffordshire Terrier'] (찾아줘)[v:find:findby]")

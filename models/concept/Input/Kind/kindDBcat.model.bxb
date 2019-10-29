@@ -1,0 +1,39 @@
+enum (KindDBcat) {
+  description (__DESCRIPTION__)
+symbol(Norwegian Forest)
+symbol(Devon Rex)
+symbol(Russian blue)
+symbol(Legdol-Lagar Muffin)
+symbol(Manx)
+symbol(Munchkin)
+symbol(Maine Coon)
+symbol(Balinese)
+symbol(Berman)
+symbol(Bengal)
+symbol(Bombay)
+symbol(British Shorthair)
+symbol(Savannah Kat)
+symbol(Chartlux)
+symbol(Siamese)
+symbol(Selkirk Rex)
+symbol(Somali)
+symbol(Snow shoe)
+symbol(Scottish Fold)
+symbol(sphinx)
+symbol(Siberian Forest)
+symbol(Singaporepura)
+symbol(American Shorthair)
+symbol(Abyssinian)
+symbol(Japanese Rice Tail)
+symbol(Turkish Angora)
+symbol(Tonkinese)
+symbol(Persian-Persian Chinchilla)
+symbol(Havana Brown)
+symbol(Highland Fold)
+symbol(Korean cat)
+
+
+  features{
+  transient
+  }
+}

@@ -1,3 +1,8 @@
+train (t-e7zgqk4prgq1i9pyst9ium66b) {
+  utterance ("[g:httpCall] (아비시니안)[v:KindDBcat:'Abyssinian'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360691179)
+}
 train (t-egxx0uxe1gkds0mq2brmgzfdw) {
   utterance ("[g:httpCall] (래빗 닥스훈드)[v:KindDB:'Rabbit Dachshund'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)

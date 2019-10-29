@@ -13,6 +13,11 @@ train (t-b9b50hlppisp4fjee50mv0wii) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572351959033)
 }
+train (t-bat011subac26bjy8mh16qp0u) {
+  utterance ("[g:httpCall] (메인쿤)[v:KindDBcat:'Maine Coon'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360152273)
+}
 train (t-bf9rgs0ozjo5wyelnv434xf9c) {
   utterance ("[g:httpCall] (치와와)[v:KindDB:'Chihuahua'] (찾아줘)[v:find:findby]")
   last-modified (1572356968296)
@@ -26,6 +31,11 @@ train (t-bgh6zss9us1pgqu2y4imyr5yc) {
   utterance ("[g:httpCall] (샤페이)[v:KindDB:Shafei] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353540772)
+}
+train (t-bm11ptq9nrapvjzh9r1hyx89i) {
+  utterance ("[g:httpCall] (먼치킨)[v:KindDBcat:'Munchkin'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359664623)
 }
 train (t-bxya91v0pn9tavg6yeg2nlvk4) {
   utterance ("[g:httpCall] (웰시 테리어)[v:KindDB:'Welsh Terrier'] (찾아줘)[v:find:findby]")

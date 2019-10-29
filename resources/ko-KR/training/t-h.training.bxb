@@ -13,6 +13,11 @@ train (t-hb0t2xr2juq513bo1a57ojkcb) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353718076)
 }
+train (t-hdseurbmufmjnl4n0vo6ibvp3) {
+  utterance ("[g:httpCall] (샤트룩스)[v:KindDBcat:'Chartlux'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360376906)
+}
 train (t-hlep5ry6pvl2xfsxs3zvyqsc4) {
   utterance ("[g:httpCall] (베들링턴 테리어)[v:KindDB:'Bedlington Terrier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
@@ -27,6 +32,11 @@ train (t-houqe826m3anaof23wei87o2z) {
   utterance ("[g:httpCall] (미니어쳐 불 테리어)[v:KindDB:'Miniature Bull Terrier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572352194171)
+}
+train (t-hrkvy7rxlb3mxhl68fvlzl55i) {
+  utterance ("[g:httpCall] (소말리)[v:KindDBcat:'Somali'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360448287)
 }
 train (t-hy5nj1frprg6a4s1kl1916jcg) {
   utterance ("[g:httpCall] (파라오 하운드)[v:KindDB:'Pharaoh Hound'] (찾아줘)[v:find:findby]")

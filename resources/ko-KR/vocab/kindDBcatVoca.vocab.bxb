@@ -1,0 +1,35 @@
+vocab(KindDBcat){
+"Norwegian Forest"{"노르웨이 숲"}
+"Devon Rex"{"데본 렉스"}
+"Russian blue"{"러시안 블루"}
+"Legdol-Lagar Muffin"{"레그돌-라가머핀"}
+"Manx"{"맹크스"}
+"Munchkin"{"먼치킨"}
+"Maine Coon"{"메인쿤"}
+"Balinese"{"발리네즈"}
+"Berman"{"버만"}
+"Bengal"{"벵갈"}
+"Bombay"{"봄베이"}
+"British Shorthair"{"브리티시 쇼트헤어"}
+"Savannah Kat"{"사바나캣"}
+"Chartlux"{"샤트룩스"}
+"Siamese"{"샴"}
+"Selkirk Rex"{"셀커크 렉스"}
+"Somali"{"소말리"}
+"Snow shoe"{"스노우 슈"}
+"Scottish Fold"{"스코티시폴드"}
+"sphinx"{"스핑크스"}
+"Siberian Forest"{"시베리안 포레스트"}
+"Singaporepura"{"싱가퓨라"}
+"American Shorthair"{"아메리칸 쇼트헤어"}
+"Abyssinian"{"아비시니안"}
+"Japanese Rice Tail"{"재패니즈밥테일"}
+"Turkish Angora"{"터키시 앙고라"}
+"Tonkinese"{"통키니즈"}
+"Persian-Persian Chinchilla"{"페르시안-페르시안 친칠라"}
+"Havana Brown"{"하바나 브라운"}
+"Highland Fold"{"하일랜드 폴드"}
+"Korean cat"{"한국 고양이"}
+
+
+}

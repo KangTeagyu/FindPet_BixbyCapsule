@@ -1,3 +1,8 @@
+train (t-q0zcwno960k26qtja7paid4u2) {
+  utterance ("[g:httpCall] (스핑크스)[v:KindDBcat:'sphinx'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360515132)
+}
 train (t-q3c5wokiuv3fxg5adihs7g40e) {
   utterance ("[g:httpCall] (댄디 딘몬트 테리어)[v:KindDB:'Dandy Dinmont Terrier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)

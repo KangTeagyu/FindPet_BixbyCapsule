@@ -18,6 +18,11 @@ train (t-dm3liua9h1nl1aky2m8eh6nd1) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572356726986)
 }
+train (t-dpnqchihe3570d2snstrp2dc2) {
+  utterance ("[g:httpCall] (버만)[v:KindDBcat:'Berman'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360024503)
+}
 train (t-drrjaja552i9rpdvgc3tfxgt7) {
   utterance ("[g:httpCall] (볼로네즈)[v:KindDB:'Volonese'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)

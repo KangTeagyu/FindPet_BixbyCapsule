@@ -1,12 +1,5 @@
-module.exports.function = [
-  {
-    "name": "cat",
-    "kind": '000116'
-  },
-  {
-    "name": "Other",
-    "kind": '000201'
-  },
+module.exports = [
+  
   {
     "name": "Norwegian Forest",
     "kind": '000170'

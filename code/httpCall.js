@@ -1,16 +1,30 @@
 //20191021 httpCall.js 변경
-module.exports.function = function httpCall (inputDate, kinds, find, location, kindDB){
+module.exports.function = function httpCall (inputDate, kinds,kindN, find, location, kindDB, kindDBcat){
   var http = require('http')
   var console = require('console')
   const fail = require('fail');
   var ServiceKey = "FPG2e4FPk/9gfHfsfjr68sF4wtwmsWd2lTak4KJabkBLKMvd+XDnG1JoqoZ1D/riVxwpQUP3p/CvUQWk195e2Q=="
   const Dummy_Dog = require("./kinds_DB/dogKind.js");
+  const Dummy_Cat = require("./kinds_DB/catKind.js");
 //results는 결과값을 담을 리스트
   var results = []
 
 
 //Input 받은 kinds(동물의 종류)에 대하여 api Call에 요청변수에 맞게 변환해줌
 //축종코드 - 개 : 417000 - 고양이 : 422400 - 기타 : 429900
+  for(var i = 0; i < Dummy_Dog.length ; i++){
+  if(kindDB == Dummy_Dog[i].name){
+   kindN = Dummy_Dog[i].kind
+   kinds = 417000}
+  
+}
+
+for(var k = 0;k < Dummy_Cat.length ;k++){
+  if(kindDBcat == Dummy_Cat[k].name){
+   kindN = Dummy_Cat[k].kind
+   kinds = 422400}
+  
+}
   if (kinds == 'Dog') {
       kinds = 417000
     }else if (kinds == 'Cat') {
@@ -20,12 +34,7 @@ module.exports.function = function httpCall (inputDate, kinds, find, location, k
   
 
 
-for(var i = 0; i < Dummy_Dog.length ; i++){
-  if(kindDB == Dummy_Dog[i].name){
-   kindN = Dummy_Dog[i].kind
-   kinds = 417000}
-  
-}
+
 
 
   if (location == 'Seoul') {

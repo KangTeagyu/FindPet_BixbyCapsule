@@ -1,3 +1,8 @@
+train (t-f9t6m6elifgmztcvjw60vekvs) {
+  utterance ("[g:httpCall] (발리네즈)[v:KindDBcat:'Balinese'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360151469)
+}
 train (t-fc69ih5ufxofu4xndror1sbkz) {
   utterance ("[g:httpCall] (아메리칸 핏불 테리어)[v:KindDB:'American pit bull terrier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)

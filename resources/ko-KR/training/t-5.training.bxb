@@ -37,6 +37,11 @@ train (t-5giwz6cfoc9va722k2eslswno) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572357623429)
 }
+train (t-5maybpho0g9a47xb0pbqsztz3) {
+  utterance ("[g:httpCall] (봄베이)[v:KindDBcat:'Bombay'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360028127)
+}
 train (t-5rb5v362l8v3d1sow8aiv7mg0) {
   utterance ("[g:httpCall] (맨체스터테리어)[v:KindDB:'Manchester Terrier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)

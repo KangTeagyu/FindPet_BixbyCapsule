@@ -3,6 +3,11 @@ train (t-071hi0u3kzafetqbbd2y7fzjx) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572356928754)
 }
+train (t-09gjc953gdc22yf98zlfhdpss) {
+  utterance ("[g:httpCall] (터키시 앙고라)[v:KindDBcat:'Turkish Angora'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360630472)
+}
 train (t-0bpciotljukq9wr5mz3eq635t) {
   utterance ("[g:httpCall] (와이마라너)[v:KindDB:Wi-Maran] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
@@ -12,6 +17,11 @@ train (t-0cpunzv9jy9bt0f4auhgnr9tp) {
   utterance ("[g:httpCall] (웰시 코기 펨브로크)[v:KindDB:'Welsh Kogi Pembroke'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572356282735)
+}
+train (t-0e7m2faaao10yp133dp7xoiem) {
+  utterance ("[g:httpCall] (맹크스)[v:KindDBcat:'Manx'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359646568)
 }
 train (t-0jssdumi1cqp9ya81wjsi236v) {
   utterance ("[g:httpCall] (캐벌리어 킹 찰스 스파니엘)[v:KindDB:'Cavalier King Charles Spaniel'] (찾아줘)[v:find:findby]")

@@ -8,3 +8,8 @@ train (t-76sa4fyeghreve5ntfhsc37l4) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572356268699)
 }
+train (t-7kpoolur8qsmf3no6vneg41ex) {
+  utterance ("[g:httpCall] (레그돌-라가머핀)[v:KindDBcat:'Legdol-Lagar Muffin'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359644572)
+}

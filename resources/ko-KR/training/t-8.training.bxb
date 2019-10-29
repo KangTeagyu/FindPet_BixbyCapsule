@@ -3,6 +3,15 @@ train (t-831rap5z0r5t97cjlp5t0a803) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572356492107)
 }
+train (t-86tuy672fnu9m0dm94mu2cljw) {
+  utterance ("[g:httpCall] (통키니즈)[v:KindDBcat:'Tonkinese'] (찾아줘)[v:find:findby]")
+  last-modified (1572360687392)
+}
+train (t-8epjy2f3iv610cops2yzn8hu2) {
+  utterance ("[g:httpCall] (재패니즈밥테일)[v:KindDBcat:'Japanese Rice Tail'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360631983)
+}
 train (t-8mobzjgit6u1pyslycbhou8ex) {
   utterance ("[g:httpCall] (울산광역시)[v:Location:Ulsan]에서 (야옹이)[v:Kinds:Cat] (검색해줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)

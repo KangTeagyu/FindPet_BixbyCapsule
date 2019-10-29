@@ -18,3 +18,8 @@ train (t-areax8m4cwtqil212f9nw6uas) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353499497)
 }
+train (t-azhfs0im101jgad8hgvp3f5hd) {
+  utterance ("[g:httpCall] (맹크스)[v:KindDBcat:'Manx'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360156805)
+}

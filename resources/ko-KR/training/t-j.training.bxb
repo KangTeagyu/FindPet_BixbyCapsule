@@ -23,3 +23,8 @@ train (t-jj19gvds5ykckel6wjnarljnj) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572352934238)
 }
+train (t-jv4945wr5z5wztntcc9xtavo8) {
+  utterance ("[g:httpCall] (먼치킨)[v:KindDBcat:'Munchkin'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360157354)
+}
