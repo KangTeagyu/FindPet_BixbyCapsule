@@ -1,5 +1,45 @@
+train (t-k73x982f1y341zielmvbbcbhs) {
+  utterance ("[g:httpCall] (아메리칸 코카 스파니엘)[v:KindDB:'American Coca-Cola Spaniel'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353321894)
+}
+train (t-k7qbw7pd38d1xzbenab9fjqyp) {
+  utterance ("[g:httpCall] (그레이트 피레니즈)[v:KindDB:'Great Pyrenees'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572351898011)
+}
+train (t-ka1xdqg68zy80do0sadylgbt3) {
+  utterance ("[g:httpCall] (와이어 폭스 테리어)[v:KindDB:'Wire Fox Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356239542)
+}
+train (t-kk3e9uqy5mnu93ud1f81z2fmg) {
+  utterance ("[g:httpCall] (골든 리트리버)[v:KindDB:'Golden Retriever'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572351837364)
+}
+train (t-km226f9hzjd5nw9pbvgunxzay) {
+  utterance ("[g:httpCall] (도사)[v:KindDB:'Dosa'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352033600)
+}
 train (t-knb3my4ubgkixsyefllvdrubn) {
   utterance ([g:httpCall] 유기견보호소 실행시켜줘)
   plan (Y2BmkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZmBiYARiBiDJyMAAowE=)
   last-modified (1570378784735)
+}
+train (t-kwb4a3e4qrv299gri6v5rmmu1) {
+  utterance ("[g:httpCall] (시코쿠)[v:KindDB:'Shikoku'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353338548)
+}
+train (t-kycefgtxeoiv6rmrkv5f8khao) {
+  utterance ("[g:httpCall] (스탠다드 푸들)[v:KindDB:'Standard Poodle'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353552652)
+}
+train (t-kzmot2t5a9us4c6ilasmnyhla) {
+  utterance ("[g:httpCall] (시바)[v:KindDB:'Shiva'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353409960)
 }

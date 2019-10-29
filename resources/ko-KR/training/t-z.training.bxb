@@ -3,3 +3,23 @@ train (t-z040hjrsrae1eqfmi8q4uko0p) {
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEAWYgGywDAA==)
   last-modified (1572240486705)
 }
+train (t-z5nnxwr3y4twvw7ac8bs0z0fs) {
+  utterance ("[g:httpCall] (시잉프랑세즈)[v:KindDB:'Shi Ying Franz'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353362374)
+}
+train (t-zbtvecfgw3od5zjsdksfiijm6) {
+  utterance ("[g:httpCall] (부비에 데 플랑드르)[v:KindDB:'Bouvier de Plandr'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353471478)
+}
+train (t-zcr8yvummrhupbc4d40t9ud3f) {
+  utterance ("[g:httpCall] (아이리쉬소프트코튼휘튼테리어)[v:KindDB:'Irish Soft Cotton Whitten Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353255550)
+}
+train (t-zh5dror526fpte7br1y8vvpyq) {
+  utterance ("[g:httpCall] (바셋 하운드)[v:KindDB:'Basset Hound'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352285104)
+}

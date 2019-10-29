@@ -1,5 +1,44 @@
+train (t-510a4hh3y1y5ge5mwawb22unw) {
+  utterance ("[g:httpCall] (롯트와일러)[v:KindDB:'Rottweiler'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352140104)
+}
+train (t-51cikbhl5vca1gjxosqfn6ly5) {
+  utterance ("[g:httpCall] (차이니즈 크레스티드 독)[v:KindDB:'Chinese Crested Dog'] (찾아줘)[v:find:findby]")
+  last-modified (1572356870366)
+}
+train (t-5727jot3okzreh8r39usdn59i) {
+  utterance ("[g:httpCall] (미니어쳐 슈나우저)[v:KindDB:'Miniature Schnauzer'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352205731)
+}
 train (t-59dxm90d1hubwbymf6drwdzop) {
   utterance ("[g:httpCall] (인천시)[v:Location:Incheon]에서 (잃어버린고양이)[v:Kinds:Cat] (결과보여줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572245550867)
+}
+train (t-5b5aj67q2sq5dip14lnelkfu2) {
+  utterance ("[g:httpCall] (필라 브라질레오)[v:KindDB:'Phila Braséo'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358211571)
+}
+train (t-5e8fi4na675htifbtgoy6evgu) {
+  utterance ("[g:httpCall] (블랙 테리어)[v:KindDB:'Black Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353007328)
+}
+train (t-5g0scvtho18xfnky76oxi1zc5) {
+  utterance ("[g:httpCall] (자이언트 슈나우져)[v:KindDB:'Giant Schnauzer'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356585328)
+}
+train (t-5giwz6cfoc9va722k2eslswno) {
+  utterance ("[g:httpCall] (케인 코르소)[v:KindDB:'Kane Corso'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357623429)
+}
+train (t-5rb5v362l8v3d1sow8aiv7mg0) {
+  utterance ("[g:httpCall] (맨체스터테리어)[v:KindDB:'Manchester Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352175929)
 }

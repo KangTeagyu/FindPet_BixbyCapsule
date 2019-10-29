@@ -1,0 +1,15 @@
+train (t-trr2e4thqykrkhu5wv4njdbd0) {
+  utterance ("[g:httpCall] (믹스견)[v:KindDB:'mixed dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352241238)
+}
+train (t-tslj0bdebn0kwndh90xi2x6q3) {
+  utterance ("[g:httpCall] (로디지안 리즈백 )[v:KindDB:'Rhodesian Leedsback'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352119412)
+}
+train (t-tyjqxvqgp6n3xgc55zrl1jnl5) {
+  utterance ("[g:httpCall] (벨기에 테뷰런)[v:KindDB:'Belgian Teburen'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353477452)
+}

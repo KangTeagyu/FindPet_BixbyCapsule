@@ -1,0 +1,15 @@
+train (t-1dm510y14f7wc98bc9797his6) {
+  utterance ("[g:httpCall] (페키니즈)[v:KindDB:'Pekiniz'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357724536)
+}
+train (t-1gfbf5b4p5ev0q9a7xr849gur) {
+  utterance ("[g:httpCall] (코카시안오브차카)[v:KindDB:'Caucasian of Chaka'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357585164)
+}
+train (t-1sgz1p7834unae1fpz79gbtj9) {
+  utterance ("[g:httpCall] (제주개)[v:KindDB:'Jeju dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356841711)
+}

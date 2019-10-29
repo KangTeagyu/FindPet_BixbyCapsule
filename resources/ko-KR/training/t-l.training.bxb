@@ -1,5 +1,45 @@
+train (t-l2i0jsxx20h2fqe6xwbd5jf68) {
+  utterance ("[g:httpCall] (허배너스)[v:KindDB:'Heo Banners'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358306330)
+}
+train (t-l4upc0heaufcupsboeqnqlxrh) {
+  utterance ("[g:httpCall] (불 테리어)[v:KindDB:'Bull Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352981376)
+}
+train (t-l7fpuxpsk48innj3ek9zxjh6l) {
+  utterance ("[g:httpCall] (보더 콜리)[v:KindDB:'Border Collie'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352916891)
+}
+train (t-lajxanff5xwu9urgs624fdykw) {
+  utterance ("[g:httpCall] (오브차카)[v:KindDB:'Obrchaca'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353702495)
+}
+train (t-lbcyqwpvzx32dm2ej4b59s1wn) {
+  utterance ("[g:httpCall] (프레사까나리오)[v:KindDB:'Frescanario'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357971065)
+}
+train (t-lnlue8p0bvcj3tc5o3ktjxfet) {
+  utterance ("[g:httpCall] (저먼 와이어헤어드 포인터)[v:KindDB:'German Wirehead Pointer'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356745501)
+}
+train (t-lqus29f5r6hdavf6q67qzdzwf) {
+  utterance ("[g:httpCall] (휘펫)[v:KindDB:'Whippet'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358279938)
+}
 train (t-lub47uo0q3dn5chgqop2cmtjj) {
   utterance ("[g:httpCall] (서울)[v:Location:Seoul]에서 (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572245079185)
+}
+train (t-lyx2miustlu3lhjzcd4swxqhk) {
+  utterance ("[g:httpCall] (스코티시 디어하운드)[v:KindDB:'Scotty Dearhound'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353111808)
 }

@@ -1,3 +1,33 @@
+train (t-071hi0u3kzafetqbbd2y7fzjx) {
+  utterance ("[g:httpCall] (차우차우)[v:KindDB:'Chow Chow'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356928754)
+}
+train (t-0bpciotljukq9wr5mz3eq635t) {
+  utterance ("[g:httpCall] (와이마라너)[v:KindDB:Wi-Maran] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356189079)
+}
+train (t-0cpunzv9jy9bt0f4auhgnr9tp) {
+  utterance ("[g:httpCall] (웰시 코기 펨브로크)[v:KindDB:'Welsh Kogi Pembroke'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356282735)
+}
+train (t-0jssdumi1cqp9ya81wjsi236v) {
+  utterance ("[g:httpCall] (캐벌리어 킹 찰스 스파니엘)[v:KindDB:'Cavalier King Charles Spaniel'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357637137)
+}
+train (t-0ngv1k406h27f2p9thc1hyirb) {
+  utterance ("[g:httpCall] (올드 잉글리쉬 불독)[v:KindDB:'Old English Bulldog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353726743)
+}
+train (t-0nxhwp6btvhr0qxuvj1g01fei) {
+  utterance ("[g:httpCall] (벨지안 셰퍼드 독)[v:KindDB:'Belzian Shepard'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352893180)
+}
 train (t-0rmi9og2qmv5ru8d1zbp2ubo8) {
   utterance ("[g:httpCall] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)

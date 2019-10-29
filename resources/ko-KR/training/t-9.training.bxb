@@ -1,0 +1,20 @@
+train (t-9f4dk3608tq6p3ztbtv8se6ii) {
+  utterance ("[g:httpCall] (카레리안 베어독)[v:KindDB:'Kareian Beardock'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357643658)
+}
+train (t-9ilfovlnau2t8jd5shp399blu) {
+  utterance ("[g:httpCall] (달마시안)[v:KindDB:'Dalmatian'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572351964652)
+}
+train (t-9se1dzqo7sbdlqhls9fzh4yyu) {
+  utterance ("[g:httpCall] (프렌치 브리타니)[v:KindDB:'French Brittany'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358106573)
+}
+train (t-9wb4y44zc3f9zh7mjwhshg4hk) {
+  utterance ("[g:httpCall] (사모예드)[v:KindDB:'Samoyed'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353046404)
+}

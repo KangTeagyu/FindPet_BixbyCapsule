@@ -1,7 +1,27 @@
+train (t-831rap5z0r5t97cjlp5t0a803) {
+  utterance ("[g:httpCall] (잉글리쉬 포인터)[v:KindDB:'English Pointer'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356492107)
+}
 train (t-8mobzjgit6u1pyslycbhou8ex) {
   utterance ("[g:httpCall] (울산광역시)[v:Location:Ulsan]에서 (야옹이)[v:Kinds:Cat] (검색해줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572241397264)
+}
+train (t-8nh754g88p5p1xfi0xbsrgd3e) {
+  utterance ("[g:httpCall] (도고 아르젠티노)[v:KindDB:'Dōgo Argentino'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352037025)
+}
+train (t-8pb2okwk7r7be5ls17ledn9gp) {
+  utterance ("[g:httpCall] (실키테리어)[v:KindDB:'Silky Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353335767)
+}
+train (t-8tetdpfarb23y0scof73xt3be) {
+  utterance ("[g:httpCall] (말라뮤트)[v:KindDB:'Malamute'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352163015)
 }
 train (t-8xl573phs43x8iuap4ozcgnem) {
   utterance ("[g:httpCall] (세종시)[v:Location:Sejong]에서 (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")

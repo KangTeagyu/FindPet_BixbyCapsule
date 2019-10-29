@@ -3,3 +3,28 @@ train (t-yf0iweq9mgzpyig4oy40n5ckb) {
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572241670911)
 }
+train (t-yfksjxxxgi0d28e0hv3j013ru) {
+  utterance ("[g:httpCall] (미텔 스피츠)[v:KindDB:'Mitel Spitz'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352231521)
+}
+train (t-yjoa1xmpiw1f2w5luw9j6x5sy) {
+  utterance ("[g:httpCall] (푸들)[v:KindDB:'Poodle'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357805776)
+}
+train (t-ysxhgfq3jgxp4x4a1g8yo9nhp) {
+  utterance ("[g:httpCall] (스코티쉬 테리어)[v:KindDB:'Scotish Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353105138)
+}
+train (t-yyinytqeng0ow47yzwfqr8rqo) {
+  utterance ("[g:httpCall] (이탈리안 그레이 하운드)[v:KindDB:'Italian Greyhound'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356295086)
+}
+train (t-yyrsrv2654bwer3v5ms1r8s3o) {
+  utterance ("[g:httpCall] (케언 테리어)[v:KindDB:'Cairn Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357631864)
+}

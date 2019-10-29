@@ -6,10 +6,35 @@ train (t-p2310txclynp7e1ne7l3slagp) {
 train (t-p75073o3btwglxwq20o7z8cah) {
   utterance ("[g:httpCall] (골든 리트리버)[v:KindDB:'Golden Retriever'] (찾아줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MghU3WG8hwcWKQxCVXzCCBTQrEYGBhYGRgYmAG0gxAFgTCADNYDigDAA==)
-  last-modified (1572265257920)
+  last-modified (1572349273557)
+}
+train (t-pfpyizxhc3qtam7b72mw3lme0) {
+  utterance ("[g:httpCall] (프렌치 불독)[v:KindDB:'French bulldog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358109174)
 }
 train (t-phlgb1cuj2wkz9v3m1einm2ez) {
   utterance ("[g:httpCall] (인천광역시)[v:Location:Incheon]에서 (냥이)[v:Kinds:Cat] (보여주세요)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572241578104)
+}
+train (t-pim0rl637zsfoqadhiitrzcpo) {
+  utterance ("[g:httpCall] (그레이 하운드)[v:KindDB:'greyhound'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572351867346)
+}
+train (t-pjix8c87b7ir835bwn7py2c9c) {
+  utterance ("[g:httpCall] (포메라니안)[v:KindDB:'Pomeranian'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357735190)
+}
+train (t-pn2fovlrt4xeryin6rwxkfefk) {
+  utterance ("[g:httpCall] (키슈)[v:KindDB:'Kisch'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357534397)
+}
+train (t-pqrdjeb122a7xb418jov8w237) {
+  utterance ("[g:httpCall] (잉글리쉬 스프링거 스파니엘)[v:KindDB:'English Springer Spaniel'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356397113)
 }

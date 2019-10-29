@@ -1,0 +1,15 @@
+train (t-ohdx6rmb6wcfcgvchq8hukive) {
+  utterance ("[g:httpCall] (셔틀랜드 쉽독)[v:KindDB:'Sherland easy dock'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353085560)
+}
+train (t-ot381nqvn80kai7xuxm1ll6qy) {
+  utterance ("[g:httpCall] (팔렌)[v:KindDB:'Palen'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357694526)
+}
+train (t-oxlstutwx9j4wsjsz1kwv9qjr) {
+  utterance ("[g:httpCall] (플랫 코티드 리트리버)[v:KindDB:'flat-coated retriever'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358123318)
+}
