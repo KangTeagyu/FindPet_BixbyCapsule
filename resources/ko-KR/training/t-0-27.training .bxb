@@ -1,30 +1,30 @@
 train (t-q0zcwno960k26qtja7paid4u2) {
-  utterance ("[g:httpCall] (스핑크스)[v:KindDBcat:'sphinx'] (찾아줘)[v:find:findby]")
+  utterance ("[g:httpcallkind] (스핑크스)[v:KindDBcat:'sphinx'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572360515132)
 }
 train (t-q3c5wokiuv3fxg5adihs7g40e) {
-  utterance ("[g:httpCall] (댄디 딘몬트 테리어)[v:KindDB:'Dandy Dinmont Terrier'] (찾아줘)[v:find:findby]")
+  utterance ("[g:httpcallkind] (댄디 딘몬트 테리어)[v:KindDB:'Dandy Dinmont Terrier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572351969817)
 }
 train (t-q3ywbtqln4ilg0v1wagm57bj5) {
-  utterance ("[g:httpCall] (냥이)[v:Kinds:Cat] (찾아)[v:find:findby]")
+  utterance ("[g:httpcallkind] (냥이)[v:Kinds:Cat] (찾아)[v:find:findby]")
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
   last-modified (1572183204954)
 }
 train (t-q951u5jtdiqv5n5fly393zc41) {
-  utterance ("[g:httpCall] (스피츠)[v:KindDB:'Spitz'] (찾아줘)[v:find:findby]")
+  utterance ("[g:httpcallkind] (스피츠)[v:KindDB:'Spitz'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353411073)
 }
 train (t-qb08dyknpr5fibbtw7gsgkjcm) {
-  utterance ("[g:httpCall] (스테포드셔불테리어)[v:KindDB:'Staffordshire Boulterier'] (찾아줘)[v:find:findby]")
+  utterance ("[g:httpcallkind] (스테포드셔불테리어)[v:KindDB:'Staffordshire Boulterier'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572353411745)
 }
 train (t-qjf0tu81ju0lrhtaeilmzfo7p) {
-  utterance ("[g:httpCall] (마리노이즈)[v:KindDB:'Marinoise'] (찾아줘)[v:find:findby]")
+  utterance ("[g:httpcallkind] (마리노이즈)[v:KindDB:'Marinoise'] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
   last-modified (1572352148223)
 }

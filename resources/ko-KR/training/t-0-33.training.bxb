@@ -1,15 +1,15 @@
 train (t-wg6w8mpph6bq55rspj0rv8wp7) {
-  utterance ("[g:httpCall] (라브라도 리트리버)[v:KindDB:'Labrador Retriever'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352030509)
+  utterance ("[g:httpcallkind] (라브라도 리트리버)[v:KindDB:'Labrador Retriever'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062659)
 }
 train (t-wp4jka7ymxpzjj9fqqeesoq4b) {
-  utterance ("[g:httpCall] (세인트 버나드)[v:KindDB:'Saint Bernard'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353546003)
+  utterance ("[g:httpcallkind] (세인트 버나드)[v:KindDB:'Saint Bernard'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062711)
 }
 train (t-wv2a0v6zi3s54jmzp07ush2cr) {
-  utterance ("[g:httpCall] (랫 테리어)[v:KindDB:'Rat Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352101897)
+  utterance ("[g:httpcallkind] (랫 테리어)[v:KindDB:'Rat Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062758)
 }

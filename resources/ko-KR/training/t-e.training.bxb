@@ -1,20 +1,20 @@
 train (t-e3uvqdpu3eckv362r2kqd50iv) {
   utterance ("[g:httpCall] (북구)[v:LocationDB:\"Buk-gu\"] (햄스터)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572363216703)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455445920)
 }
 train (t-eixc3lfv1b1f3vbdlwkkli8p6) {
   utterance ("[g:httpCall] (태백시)[v:LocationDB:\"Taebaek\"] (잃어버린고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362237417)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455445964)
 }
 train (t-ey2djea0gtvtl1of1jm5hcz6c) {
   utterance ("[g:httpCall] (서울특별시)[v:Location:Seoul]에서 (잃어버린개)[v:Kinds:Dog] (찾아주세요)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
-  last-modified (1572241337569)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8FEzlPvnJiSWZ+XkMwmgSaUDlDCwMjAxMDMxAmgHIgkAYQJIDAA==)
+  last-modified (1572455446005)
 }
 train (t-eywzozuekb3rwe5dn3amy0ldu) {
   utterance ("[g:httpCall] (서울시)[v:Location:Seoul]에서 (유기견)[v:Kinds:Dog] (검색해줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
-  last-modified (1572245138893)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8FEzlPvnJiSWZ+XkMwmgSaUDlDCwMjAxMDMxAmgHIgkAYQJIDAA==)
+  last-modified (1572455446047)
 }

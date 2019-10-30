@@ -1,25 +1,20 @@
 train (t-m5sgovlocvi46hwcdyuqhr0tp) {
-  utterance ("[g:httpCall] (센트럴 아시안 오브차카)[v:KindDB:'Central Asian of Chakka'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353079063)
+  utterance ("[g:httpcallkind] (센트럴 아시안 오브차카)[v:KindDB:'Central Asian of Chakka'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458059964)
 }
 train (t-mb58m0dhblwupz3zoodzio9po) {
-  utterance ("[g:httpCall] (재패니즈 스피츠)[v:KindDB:'Jepaniz Spitz'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356506229)
-}
-train (t-mqx49i1f5bmwld4devqxo2w6a) {
-  utterance ("[g:httpCall] (기타)[v:KindDB:'Guitar'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572351906640)
+  utterance ("[g:httpcallkind] (재패니즈 스피츠)[v:KindDB:'Jepaniz Spitz'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458060020)
 }
 train (t-mvdalm10037q32p7zerd3z1hj) {
-  utterance ("[g:httpCall] (풍산견)[v:KindDB:'Poongsan dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357889576)
+  utterance ("[g:httpcallkind] (풍산견)[v:KindDB:'Poongsan dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458060071)
 }
 train (t-mzl9xhjgcfa1j9rvlzlbo7isl) {
-  utterance ("[g:httpCall] (화이트테리어)[v:KindDB:'White Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572358321404)
+  utterance ("[g:httpcallkind] (화이트테리어)[v:KindDB:'White Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458060152)
 }

@@ -1,40 +1,40 @@
 train (t-e7zgqk4prgq1i9pyst9ium66b) {
-  utterance ("[g:httpCall] (아비시니안)[v:KindDBcat:'Abyssinian'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360691179)
+  utterance ("[g:httpcallkind] (아비시니안)[v:KindDBcat:'Abyssinian'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056319)
 }
 train (t-egxx0uxe1gkds0mq2brmgzfdw) {
-  utterance ("[g:httpCall] (래빗 닥스훈드)[v:KindDB:'Rabbit Dachshund'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352093366)
+  utterance ("[g:httpcallkind] (래빗 닥스훈드)[v:KindDB:'Rabbit Dachshund'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056376)
 }
 train (t-eluqzebz5kcil3jiylbcf7aea) {
-  utterance ("[g:httpCall] (클라인스피츠)[v:KindDB:'Kleinpitz'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357542461)
+  utterance ("[g:httpcallkind] (클라인스피츠)[v:KindDB:'Kleinpitz'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056428)
 }
 train (t-em57ht2kg7z2hwf5isc4igwg3) {
-  utterance ("[g:httpCall] (케니스펜더)[v:KindDB:'Kenny Fender'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357634888)
+  utterance ("[g:httpcallkind] (케니스펜더)[v:KindDB:'Kenny Fender'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056478)
 }
 train (t-es1q0ejgvsc2p9uf2geogysqd) {
-  utterance ("[g:httpCall] (마스티프)[v:KindDB:'Mastiff'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352155812)
+  utterance ("[g:httpcallkind] (마스티프)[v:KindDB:'Mastiff'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056528)
 }
 train (t-ev8wg8ba3zj9s9xp8inpbe7rl) {
-  utterance ("[g:httpCall] (요크셔 테리어)[v:KindDB:'Yorkshire Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356245462)
+  utterance ("[g:httpcallkind] (요크셔 테리어)[v:KindDB:'Yorkshire Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056589)
 }
 train (t-exvegpactuduh50ew7hpvrxeb) {
-  utterance ("[g:httpCall] (벨기에 쉽독)[v:KindDB:'Belgian Easy Dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352841530)
+  utterance ("[g:httpcallkind] (벨기에 쉽독)[v:KindDB:'Belgian Easy Dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056637)
 }
 train (t-ezhjotf4tu34p6x1y78zh9wu6) {
-  utterance ("[g:httpCall] (진도견)[v:KindDB:'Jindo dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356950502)
+  utterance ("[g:httpcallkind] (진도견)[v:KindDB:'Jindo dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056701)
 }

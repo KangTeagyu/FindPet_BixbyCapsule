@@ -1,25 +1,25 @@
 train (t-k1xrnp3ri6ppm4pikjuykkizt) {
   utterance ("[g:httpCall] (고성군)[v:LocationDB:'Goseong County'] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572352236327)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447281)
 }
 train (t-k2qc8er6medckwcihldw6ukzs) {
   utterance ("[g:httpCall] (기타동물)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
-  last-modified (1572323734034)
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGYTTRNKAoAzMDIwMTkGQA0iAIAXBRAA==)
+  last-modified (1572455447320)
 }
 train (t-kdp36ch9no4hummg5myinp9ei) {
   utterance ("[g:httpCall] (해운대구)[v:LocationDB:\"Haeundae District\"] (닭)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572363128831)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447361)
 }
 train (t-knb3my4ubgkixsyefllvdrubn) {
   utterance ([g:httpCall] 유기견보호소 실행시켜줘)
-  plan (Y2BmkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZmBiYARiBiDJyMAAowE=)
-  last-modified (1570378784735)
+  plan (Y2BiEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGRiBkgGIgCQA=)
+  last-modified (1572455447403)
 }
 train (t-ksct8pdk8l457mckzme91byvj) {
   utterance ("[g:httpCall] (양주시)[v:LocationDB:\"Yangju\"] (거북이)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362384406)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447448)
 }

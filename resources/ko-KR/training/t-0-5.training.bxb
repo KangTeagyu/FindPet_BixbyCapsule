@@ -1,35 +1,35 @@
 train (t-36ftm0j46663z8xa007emm1xj) {
-  utterance ("[g:httpCall] (삽살개)[v:KindDB:'Sapsal dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353537386)
+  utterance ("[g:httpcallkind] (삽살개)[v:KindDB:'Sapsal dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064137)
 }
 train (t-3gybzdvl1nogf6rimmejjy43x) {
-  utterance ("[g:httpCall] (저먼 셰퍼드 독)[v:KindDB:'German Shepherd Dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356746988)
+  utterance ("[g:httpcallkind] (저먼 셰퍼드 독)[v:KindDB:'German Shepherd Dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458021156)
 }
 train (t-3hu2ehwx677of7vb4nio20v1k) {
-  utterance ("[g:httpCall] (아이리쉬 세터)[v:KindDB:'Irish Setter'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353310743)
+  utterance ("[g:httpcallkind] (아이리쉬 세터)[v:KindDB:'Irish Setter'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064245)
 }
 train (t-3jultp1nat3k61v6pfv86g5vs) {
-  utterance ("[g:httpCall] (노르웨이 숲)[v:KindDBcat:'Norwegian Forest'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359621408)
+  utterance ("[g:httpcallkind] (노르웨이 숲)[v:KindDBcat:'Norwegian Forest'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064297)
 }
 train (t-3pgmbgboa62pksp35j0rjhroh) {
-  utterance ("[g:httpCall] (시베리안 허스키)[v:KindDB:'Siberian Husky'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353144170)
+  utterance ("[g:httpcallkind] (시베리안 허스키)[v:KindDB:'Siberian Husky'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064352)
 }
 train (t-3r0v1lyu3lzu7hg370sdu1lcw) {
-  utterance ("[g:httpCall] (싱가퓨라)[v:KindDBcat:'Singaporepura'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360566244)
+  utterance ("[g:httpcallkind] (싱가퓨라)[v:KindDBcat:'Singaporepura'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064412)
 }
 train (t-3tclj7wbix6wuf7jl23okf89r) {
-  utterance ("[g:httpCall] (라이카)[v:KindDB:'Laika'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352087611)
+  utterance ("[g:httpcallkind] (라이카)[v:KindDB:'Laika'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064469)
 }

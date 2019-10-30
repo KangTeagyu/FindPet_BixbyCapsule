@@ -1,30 +1,30 @@
 train (t-g0bcd2w9znonvq40dm2te3jf6) {
-  utterance ("[g:httpCall] (미니어쳐 닥스훈트)[v:KindDB:'Miniature Dachshund'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352184089)
+  utterance ("[g:httpcallkind] (미니어쳐 닥스훈트)[v:KindDB:'Miniature Dachshund'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057036)
 }
 train (t-g5pbvnvjk4gqe85b0yh70zs3l) {
-  utterance ("[g:httpCall] (버니즈 마운틴 독)[v:KindDB:'Bernice Mountain Dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352292284)
+  utterance ("[g:httpcallkind] (버니즈 마운틴 독)[v:KindDB:'Bernice Mountain Dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057092)
 }
 train (t-gjb4z2k9ufe51t2xbatzcca1s) {
-  utterance ("[g:httpCall] (토이 맨체스터 테리어)[v:KindDB:'Toy Manchester Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357530046)
+  utterance ("[g:httpcallkind] (토이 맨체스터 테리어)[v:KindDB:'Toy Manchester Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057154)
 }
 train (t-gjthisfbnwsu1f20d8sv9xtf5) {
-  utterance ("[g:httpCall] (잉글리쉬 세터)[v:KindDB:'English Setter'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356325795)
+  utterance ("[g:httpcallkind] (잉글리쉬 세터)[v:KindDB:'English Setter'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057354)
 }
 train (t-gr5po5umym9ws1429owl71x9w) {
-  utterance ("[g:httpCall] (라사 압소)[v:KindDB:'Lhasa Apso'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352029071)
+  utterance ("[g:httpcallkind] (라사 압소)[v:KindDB:'Lhasa Apso'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057203)
 }
 train (t-gwqwvvq0ejirt22saottmdwyl) {
-  utterance ("[g:httpCall] (노리치 테리어)[v:KindDB:'Norwich Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572351947523)
+  utterance ("[g:httpcallkind] (노리치 테리어)[v:KindDB:'Norwich Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057250)
 }

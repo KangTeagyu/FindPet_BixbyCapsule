@@ -1,30 +1,30 @@
 train (t-m2qzggitrtiykxp0uzjrkcsbv) {
   utterance ("[g:httpCall] (도봉구)[v:LocationDB:\"Dobong District\"] (냥냥이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572363177710)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447716)
 }
 train (t-ml9722lieutnx081hqbemrenb) {
   utterance ("[g:httpCall] (화성시)[v:LocationDB:\"Hwaseong-si\"] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362448699)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447780)
 }
 train (t-moba230rfb9kx8f1wb3g432p2) {
   utterance ("[g:httpCall] (미추홀구)[v:LocationDB:\"Michuhol District\"] (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362494537)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447844)
 }
 train (t-mqhd6asx252e82o1rnmpdzv98) {
   utterance ("[g:httpCall] (용산구)[v:LocationDB:\"Yongsan District\"] (거북이)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572363169926)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447883)
 }
 train (t-mw1t6cwirf6xfxznugvd7oasv) {
   utterance ("[g:httpCall] (구로구)[v:LocationDB:\"Kurogu\"] (잃어버린강아지)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362558577)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447925)
 }
 train (t-mz96w5xgtwrgxdlfhtb1qtfnf) {
   utterance ("[g:httpCall] (사상구)[v:LocationDB:\"Sasang District\"] (기타)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362900473)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447971)
 }

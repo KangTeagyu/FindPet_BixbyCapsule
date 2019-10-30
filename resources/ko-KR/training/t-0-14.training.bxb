@@ -1,25 +1,25 @@
 train (t-da4nr8cjvocvlmx3dhbzrs3jv) {
-  utterance ("[g:httpCall] (퍼그)[v:KindDB:'Pug'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357705269)
+  utterance ("[g:httpcallkind] (퍼그)[v:KindDB:'Pug'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458055965)
 }
 train (t-dad900qj0zs7u9r4ls8jl5150) {
-  utterance ("[g:httpCall] (케리 블루 테리어)[v:KindDB:'Kerry Blue Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357633327)
+  utterance ("[g:httpcallkind] (케리 블루 테리어)[v:KindDB:'Kerry Blue Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056039)
 }
 train (t-dm3liua9h1nl1aky2m8eh6nd1) {
-  utterance ("[g:httpCall] (잭 러셀 테리어)[v:KindDB:'Jack Russell Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356726986)
+  utterance ("[g:httpcallkind] (잭 러셀 테리어)[v:KindDB:'Jack Russell Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056151)
 }
 train (t-dpnqchihe3570d2snstrp2dc2) {
-  utterance ("[g:httpCall] (버만)[v:KindDBcat:'Berman'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360024503)
+  utterance ("[g:httpcallkind] (버만)[v:KindDBcat:'Berman'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056220)
 }
 train (t-drrjaja552i9rpdvgc3tfxgt7) {
-  utterance ("[g:httpCall] (볼로네즈)[v:KindDB:'Volonese'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353472943)
+  utterance ("[g:httpcallkind] (볼로네즈)[v:KindDB:'Volonese'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458056270)
 }

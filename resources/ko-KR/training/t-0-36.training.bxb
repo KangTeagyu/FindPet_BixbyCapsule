@@ -1,20 +1,20 @@
 train (t-z5nnxwr3y4twvw7ac8bs0z0fs) {
-  utterance ("[g:httpCall] (시잉프랑세즈)[v:KindDB:'Shi Ying Franz'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353362374)
+  utterance ("[g:httpcallkind] (시잉프랑세즈)[v:KindDB:'Shi Ying Franz'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458063417)
 }
 train (t-zbtvecfgw3od5zjsdksfiijm6) {
-  utterance ("[g:httpCall] (부비에 데 플랑드르)[v:KindDB:'Bouvier de Plandr'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353471478)
+  utterance ("[g:httpcallkind] (부비에 데 플랑드르)[v:KindDB:'Bouvier de Plandr'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458063473)
 }
 train (t-zcr8yvummrhupbc4d40t9ud3f) {
-  utterance ("[g:httpCall] (아이리쉬소프트코튼휘튼테리어)[v:KindDB:'Irish Soft Cotton Whitten Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353255550)
+  utterance ("[g:httpcallkind] (아이리쉬소프트코튼휘튼테리어)[v:KindDB:'Irish Soft Cotton Whitten Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458063522)
 }
 train (t-zh5dror526fpte7br1y8vvpyq) {
-  utterance ("[g:httpCall] (바셋 하운드)[v:KindDB:'Basset Hound'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352285104)
+  utterance ("[g:httpcallkind] (바셋 하운드)[v:KindDB:'Basset Hound'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458063575)
 }

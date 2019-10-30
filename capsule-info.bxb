@@ -2,7 +2,7 @@ capsule-info {
   display-name (또하나의가족)
   developer-name (샌프란듀오)
   icon-asset (images/family.png)
-  description ("당신의 소중한 애완동물을 찾아드립니다. \n 해당 캡슐을 실행 시키고 싶으시면 \"또하나의가족에서\", \"하나가족에서\",\"또하나가족에서\",\"하나의가족에서\"중 하나로 해당 캡슐을 실행시킬 수 있습니다.\n 개(강아지), 고양이를 제외한 동물은 기타동물로 검색이 됩니다.")
+  description ("당신의 소중한 애완동물을 찾아드립니다. \n 해당 캡슐을 실행 시키고 싶으시면 \"또하나의가족에서\", \"하나가족에서\",\"또하나가족에서\",\"하나의가족에서\"중 하나로 해당 캡슐을 실행시킬 수 있습니다.\n 개(강아지), 고양이를 제외한 동물은 기타동물로 검색이 됩니다.\n 종별 검색은 정확한 종 이름으로 검색하셔야 됩니다.")
   privacy-policy-url(https://docs.google.com/document/d/1aewKfogXjE1SnBwc44qwegjsVPNqyUsfn195Uf--jOg/edit?usp=sharing)
   search-keywords {
       keyword (유기견)

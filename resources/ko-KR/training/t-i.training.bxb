@@ -1,25 +1,25 @@
 train (t-ii9asxawguzatqz68dvwnlh58) {
   utterance ("[g:httpCall] (사하구)[v:LocationDB:\"Saha District\"] (기타동물)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572363065521)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455446906)
 }
 train (t-im3lp0kal3y2r1tfbdoframqr) {
   utterance ("[g:httpCall] (구리시)[v:LocationDB:\"Guri\"] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362329170)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455446956)
 }
 train (t-imfxikl72zfm6vvco89zkru72) {
   utterance ("[g:httpCall] (가평군)[v:LocationDB:\"Gapyeong County\"] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362306228)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455446997)
 }
 train (t-iv6ii84xpk29uxk49p6dgznpc) {
   utterance ("[g:httpCall] (횡성군)[v:LocationDB:\"Hoengseong County\"] (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572363218509)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447042)
 }
 train (t-ivqoocjdlhda247b6ewbm6po4) {
   utterance ("[g:httpCall] (동해시)[v:LocationDB:Donghae] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572359858636)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455447096)
 }

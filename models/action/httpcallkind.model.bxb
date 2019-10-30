@@ -1,0 +1,100 @@
+action (httpcallkind) {
+ description (httpcall action)
+ type(Constructor)
+ collect{
+   input (inputDate) {
+     type (InputDate)
+     min (Optional) max (One)
+     default-init {
+       intent{
+       goal: Date_Convert
+       }
+     }
+   }
+   input (find) {
+     type (find)
+     min (Optional) max (One)
+   }
+   input (location) {
+     type (Location)
+     min (Optional) max (One)
+   }
+
+   input (locationDB) {
+     type (LocationDB)
+     min (Optional) max (One)
+   }
+   input (kindDBcat) {
+     type (KindDBcat)
+     min (Optional) max (One)
+   }
+
+   input (kindDB) {
+     type (KindDB)
+     min (Optional) max (One)
+   }
+   input (kinds) {
+     type (Kinds)
+     min (Optional) max (One)
+    
+ }
+ }
+ output (Results){
+     throws{
+      error (NoResult){
+        on-catch {
+          halt {
+            dialog {
+              template-macro (no_result)
+            }
+          }
+        }
+      }
+      unknown-error{
+        on-catch {
+          halt {
+            dialog {
+              template-macro (no_result)
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+//input은 별명으로 소문자 
+//모델링, 컨셉 : 대문자 / 비즈니스로직에 전달되거나 비즈니스로직 함수이름 : 소문자
+// input(Bgnde_Convert){ 
+//      type(Bgnde_Convert)
+//      min(Required) max (One)
+//    }
+ //   input(Endde_Convert){
+//      type(Endde_Convert)
+//      min(Required) max (One)
+//    }     
+
+    //  computed-input (bgnde_Convert) {
+    //   type (Bgnde_Convert)
+    //   min (Required) max (One)
+    //   compute {
+    //     if (exists(bgnde_Convert)) {
+    //       intent{
+    //         goal: Bgnde_Convert
+    //         value: $expr(bgnde_Convert)
+          
+    //       }
+    //     }
+    //    }
+    //  } 
+    //  computed-input (endde_Convert) {
+    //   type (Endde_Convert)
+    //   min (Required) max (One)
+    //   compute {
+    //     intent{
+    //         goal: Endde_Convert
+    //         value: $expr(endde_Convert)
+          
+    //   }
+    //  } 
+    // }

@@ -1,15 +1,15 @@
 train (t-a59tvq84utx0qfzdia6u0rs0a) {
   utterance ("[g:httpCall] (연제구)[v:LocationDB:\"Yeonje District\"] (앵무새)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362949563)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
+  last-modified (1572455445258)
 }
 train (t-awabhkrneifl05zuhxph45aaw) {
-  utterance ("[g:httpCall] (동해시)[v:LocationDB:\"Donghae\"] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
-  last-modified (1572362123029)
+  utterance ("[g:httpcallkind] (동해시)[v:LocationDB:Donghae] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETQJL2BgsUMkmiiPvnJiSWZ+XkuTgzCaFJpIFNYGBgZmBiYgTQDkAWBMIAkBwA=)
+  last-modified (1572455107299)
 }
 train (t-axfjn5m4ysvpw2crxoedn7y6y) {
   utterance ("[g:httpCall] (강릉시)[v:LocationDB:Gangneung] (믹스견)[v:KindDB:'mixed dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MghU3WG8hwcWKQwybnk5+cWJKZnweUl8AmD2IwsDAwMjAxMANpBiALAmEASQ4A)
-  last-modified (1572351958823)
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBkk0YZ/85MSSzPw8oJQwmlQaUAcDCwMjAxMDM5BmALIgEAaQ5AA=)
+  last-modified (1572455445340)
 }

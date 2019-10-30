@@ -27,7 +27,7 @@ if(kindDB){
     kinds = 417000}
     }
 }
-if(kindDB){
+else if(kindDB){
   for(var i = 0; i < Dummy_Cat.length ; i++){
     if(kindDB == Dummy_Cat[i].name){
     var kindN = Dummy_Cat[i].kind

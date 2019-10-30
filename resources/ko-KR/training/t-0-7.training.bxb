@@ -1,34 +1,35 @@
 train (t-618q0ninoajb4q48iz2dscffn) {
-  utterance ("[g:httpCall] (시베리안라이카)[v:KindDB:'Siberian Laika'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353383725)
+  utterance ("[g:httpcallkind] (시베리안라이카)[v:KindDB:'Siberian Laika'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064951)
 }
 train (t-63xupnxw5kzpdcep9dhc2ndld) {
-  utterance ("[g:httpCall] (카이훗)[v:KindDB:'Kaihud'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357642151)
+  utterance ("[g:httpcallkind] (카이훗)[v:KindDB:'Kaihud'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458064997)
 }
 train (t-65jnecjkc590wln220tdnin1p) {
-  utterance ("[g:httpCall] (살루키)[v:KindDB:'Saluki'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353052929)
+  utterance ("[g:httpcallkind] (살루키)[v:KindDB:Saluki] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572455656953)
 }
 train (t-66v3ibgb89qnh87iq8q99o90p) {
-  utterance ("[g:httpCall] (아나톨리안 셰퍼드)[v:KindDB:'Anatolian Sheppard'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353330818)
+  utterance ("[g:httpcallkind] (아나톨리안 셰퍼드)[v:KindDB:'Anatolian Sheppard'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572455359745)
 }
 train (t-6iq9zdqrggizvst6brpv2j4hq) {
-  utterance ("[g:httpCall] (도고 아르젠티노)[v:KindDB:'Dōgo Argentino'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352038708)
+  utterance ("[g:httpcallkind] (도고 아르젠티노)[v:KindDB:'Dōgo Argentino'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572455424476)
 }
 train (t-6khv1vtbim5yrlk00nrth0f5e) {
-  utterance ("[g:httpCall] (비즐라)[v:KindDB:Bezla] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353524798)
+  utterance ("[g:httpcallkind] (비즐라)[v:KindDB:Bezla] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458065351)
 }
 train (t-6w5zatwkwdvu93av6bc1e53s9) {
-  utterance ("[g:httpCall] (아메리칸 불독)[v:KindDB:'American Bulldog'] (찾아줘)[v:find:findby]")
-  last-modified (1572353194621)
+  utterance ("[g:httpcallkind] (아메리칸 불독)[v:KindDB:'American Bulldog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458065415)
 }

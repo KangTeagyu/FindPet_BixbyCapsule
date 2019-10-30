@@ -1,25 +1,25 @@
 train (t-rehgh2e6w6mnf1maqe9zwjx3p) {
-  utterance ("[g:httpCall] (비어디드 콜리)[v:KindDB:'Bearded Colley'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353530055)
+  utterance ("[g:httpcallkind] (비어디드 콜리)[v:KindDB:'Bearded Colley'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458060967)
 }
 train (t-ri87g0plh7wdxn3ww7ks4b3o0) {
-  utterance ("[g:httpCall] (레이크랜드 테리어)[v:KindDB:'Lakeland Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352111318)
+  utterance ("[g:httpcallkind] (레이크랜드 테리어)[v:KindDB:'Lakeland Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458061015)
 }
 train (t-rki5u49up228t7awmgmzir6vx) {
-  utterance ("[g:httpCall] (에어델 테리어)[v:KindDB:'Airdell Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353691882)
+  utterance ("[g:httpcallkind] (에어델 테리어)[v:KindDB:'Airdell Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458061066)
 }
 train (t-ron0qajfeeoskmkc76leijvew) {
-  utterance ("[g:httpCall] (메인쿤)[v:KindDBcat:'Maine Coon'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359666165)
+  utterance ("[g:httpcallkind] (메인쿤)[v:KindDBcat:'Maine Coon'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458061134)
 }
 train (t-rq2qce9cw1sx9uxpbes9yjre1) {
-  utterance ("[g:httpCall] (스노우 슈)[v:KindDBcat:'Snow shoe'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360483685)
+  utterance ("[g:httpcallkind] (스노우 슈)[v:KindDBcat:'Snow shoe'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458061181)
 }

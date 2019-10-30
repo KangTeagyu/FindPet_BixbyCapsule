@@ -9,8 +9,12 @@ endpoints {
       local-endpoint (select_Kind.js)
     }
     action-endpoint (httpCall) {
-      accepted-inputs (inputDate, kinds, find, location, kindDB, locationDB,kindDBcat)
+      accepted-inputs (inputDate, kinds,kindN, find, location, kindDB, locationDB,kindDBcat)
       local-endpoint (httpCall.js) 
+    }
+    action-endpoint (httpcallkind) {
+      accepted-inputs (inputDate, kinds,kindN, find, location, kindDB, locationDB,kindDBcat)
+      local-endpoint (httpcallkind.js) 
     }
     action-endpoint (Call) {
       accepted-inputs (careTel)

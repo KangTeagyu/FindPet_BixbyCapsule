@@ -1,50 +1,50 @@
 train (t-h296vme7n1zzxm2ay84a51ng2) {
-  utterance ("[g:httpCall] (시츄)[v:KindDB:'Shih Tzu'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353163755)
+  utterance ("[g:httpcallkind] (시츄)[v:KindDB:'Shih Tzu'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057307)
 }
 train (t-h3dds8bo3uedl3q33066on5hu) {
-  utterance ("[g:httpCall] (보스턴 테리어)[v:KindDB:'Boston Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352941404)
+  utterance ("[g:httpcallkind] (보스턴 테리어)[v:KindDB:'Boston Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057407)
 }
 train (t-hb0t2xr2juq513bo1a57ojkcb) {
-  utterance ("[g:httpCall] (오스트랄리안 캐틀 독)[v:KindDB:'Australian Cattle Dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353718076)
+  utterance ("[g:httpcallkind] (오스트랄리안 캐틀 독)[v:KindDB:'Australian Cattle Dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057456)
 }
 train (t-hdseurbmufmjnl4n0vo6ibvp3) {
-  utterance ("[g:httpCall] (샤트룩스)[v:KindDBcat:'Chartlux'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360376906)
+  utterance ("[g:httpcallkind] (샤트룩스)[v:KindDBcat:'Chartlux'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057545)
 }
 train (t-hlep5ry6pvl2xfsxs3zvyqsc4) {
-  utterance ("[g:httpCall] (베들링턴 테리어)[v:KindDB:'Bedlington Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352300858)
+  utterance ("[g:httpcallkind] (베들링턴 테리어)[v:KindDB:'Bedlington Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057654)
 }
 train (t-ho5goqfa5gxqsjsg7wmm6n416) {
-  utterance ("[g:httpCall] (슈나우져)[v:KindDB:'Schnauzer'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353098990)
+  utterance ("[g:httpcallkind] (슈나우져)[v:KindDB:'Schnauzer'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057707)
 }
 train (t-houqe826m3anaof23wei87o2z) {
-  utterance ("[g:httpCall] (미니어쳐 불 테리어)[v:KindDB:'Miniature Bull Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352194171)
+  utterance ("[g:httpcallkind] (미니어쳐 불 테리어)[v:KindDB:'Miniature Bull Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458057762)
 }
 train (t-hrkvy7rxlb3mxhl68fvlzl55i) {
   utterance ("[g:httpCall] (소말리)[v:KindDBcat:'Somali'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360448287)
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBmE0mTSgDAMzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1572455436148)
 }
 train (t-hy5nj1frprg6a4s1kl1916jcg) {
   utterance ("[g:httpCall] (파라오 하운드)[v:KindDB:'Pharaoh Hound'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357339576)
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBmE04TSgMAMzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1572455436185)
 }
 train (t-hzz7i7hvg80yavkjkpe968uyp) {
   utterance ("[g:httpCall] (코카 스파니엘)[v:KindDB:'Coca-Cola Spaniel'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357619170)
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBmE04TSgMAMzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1572455436231)
 }

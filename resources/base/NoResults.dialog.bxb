@@ -1,5 +1,5 @@
 template-macro-def (no_result) {
   content {
-    template("현재 등록된 동물이 없네요. 다시 검색해 주시겠어요?")
+    template("현재 검색한 조건으로 등록된 동물이 없네요. 다른 조건으로 검색해 주시겠어요?")
   }
 }

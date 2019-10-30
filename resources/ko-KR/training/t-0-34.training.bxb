@@ -1,25 +1,25 @@
 train (t-xaz9cfw89z42uqzrii28y18hz) {
-  utterance ("[g:httpCall] (아메리칸 아키다)[v:KindDB:'American Akida'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353323883)
+  utterance ("[g:httpcallkind] (아메리칸 아키다)[v:KindDB:'American Akida'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062810)
 }
 train (t-xdfw9ffp5fg87nhwea0ipf7zx) {
-  utterance ("[g:httpCall] (발리네즈)[v:KindDBcat:'Balinese'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359682358)
+  utterance ("[g:httpcallkind] (발리네즈)[v:KindDBcat:'Balinese'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062860)
 }
 train (t-xtdamre0b9uxtrqlwojnd88jh) {
-  utterance ("[g:httpCall] (콜리)[v:KindDB:'Collie'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357581511)
+  utterance ("[g:httpcallkind] (콜리)[v:KindDB:'Collie'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062909)
 }
 train (t-xxnoefgdno5d8f2jsz17irb1o) {
-  utterance ("[g:httpCall] (페터데일테리어)[v:KindDB:'Petterdale Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357727480)
+  utterance ("[g:httpcallkind] (페터데일테리어)[v:KindDB:'Petterdale Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458062967)
 }
 train (t-xzbl5mwggczhfbsh1z4au0zc9) {
-  utterance ("[g:httpCall] (잉글리쉬 코카 스파니엘)[v:KindDB:'English Coca-Cola Spaniel'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356494227)
+  utterance ("[g:httpcallkind] (잉글리쉬 코카 스파니엘)[v:KindDB:'English Coca-Cola Spaniel'] (찾아줘)[v:find:findby]")
+  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1572458063016)
 }
