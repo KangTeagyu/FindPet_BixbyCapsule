@@ -9,7 +9,7 @@ endpoints {
       local-endpoint (select_Kind.js)
     }
     action-endpoint (httpCall) {
-      accepted-inputs (inputDate, kinds, find, location, kindDB,kindDBcat)
+      accepted-inputs (inputDate, kinds, find, location, kindDB, locationDB,kindDBcat)
       local-endpoint (httpCall.js) 
     }
     action-endpoint (Call) {

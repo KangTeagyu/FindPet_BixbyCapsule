@@ -1,39 +1,30 @@
-train (t-831rap5z0r5t97cjlp5t0a803) {
-  utterance ("[g:httpCall] (잉글리쉬 포인터)[v:KindDB:'English Pointer'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356492107)
+train (t-85fr75zra0zv5i2w0x7lvwnge) {
+  utterance ("[g:httpCall] (용인시)[v:LocationDB:\"Yongin\"] (토끼)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362407217)
 }
-train (t-86tuy672fnu9m0dm94mu2cljw) {
-  utterance ("[g:httpCall] (통키니즈)[v:KindDBcat:'Tonkinese'] (찾아줘)[v:find:findby]")
-  last-modified (1572360687392)
+train (t-88vbmkc2fh5f8w7ajfxp9mak5) {
+  utterance ("[g:httpCall] (동구)[v:LocationDB:\"Donggu\"] (오리)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362292491)
 }
-train (t-8epjy2f3iv610cops2yzn8hu2) {
-  utterance ("[g:httpCall] (재패니즈밥테일)[v:KindDBcat:'Japanese Rice Tail'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360631983)
+train (t-8fc2mlibfd77b2yryy0hfjtx1) {
+  utterance ("[g:httpCall] (삼척시)[v:LocationDB:Samcheok] (유기견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363233229)
 }
 train (t-8mobzjgit6u1pyslycbhou8ex) {
   utterance ("[g:httpCall] (울산광역시)[v:Location:Ulsan]에서 (야옹이)[v:Kinds:Cat] (검색해줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572241397264)
 }
-train (t-8nh754g88p5p1xfi0xbsrgd3e) {
-  utterance ("[g:httpCall] (도고 아르젠티노)[v:KindDB:'Dōgo Argentino'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352037025)
-}
-train (t-8pb2okwk7r7be5ls17ledn9gp) {
-  utterance ("[g:httpCall] (실키테리어)[v:KindDB:'Silky Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353335767)
-}
-train (t-8tetdpfarb23y0scof73xt3be) {
-  utterance ("[g:httpCall] (말라뮤트)[v:KindDB:'Malamute'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352163015)
-}
 train (t-8xl573phs43x8iuap4ozcgnem) {
   utterance ("[g:httpCall] (세종시)[v:Location:Sejong]에서 (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572245485967)
+}
+train (t-8z03mmsukljgz2ol5bumjwacz) {
+  utterance ("[g:httpCall] (동래구)[v:LocationDB:\"Dongnae District\"] (야옹이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362819541)
 }

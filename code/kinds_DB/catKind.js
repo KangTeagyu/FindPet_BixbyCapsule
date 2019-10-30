@@ -1,5 +1,4 @@
-module.exports = [
-  
+module.exports.function = [
   {
     "name": "Norwegian Forest",
     "kind": '000170'

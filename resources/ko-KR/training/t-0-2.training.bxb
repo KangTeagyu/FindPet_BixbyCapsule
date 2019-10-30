@@ -1,0 +1,30 @@
+train (t-10iw8h2xkv99d5gmwspe6jgul) {
+  utterance ("[g:httpCall] (하바나 브라운)[v:KindDBcat:'Havana Brown'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360748629)
+}
+train (t-1dm510y14f7wc98bc9797his6) {
+  utterance ("[g:httpCall] (페키니즈)[v:KindDB:'Pekiniz'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357724536)
+}
+train (t-1ei47gulw04obflozduj2wuz8) {
+  utterance ("[g:httpCall] (벵갈)[v:KindDBcat:'Bengal'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360023091)
+}
+train (t-1gfbf5b4p5ev0q9a7xr849gur) {
+  utterance ("[g:httpCall] (코카시안오브차카)[v:KindDB:'Caucasian of Chaka'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357585164)
+}
+train (t-1mvswhcotb7dlrmfacj0pbxg4) {
+  utterance ("[g:httpCall] (데본 렉스)[v:KindDBcat:'Devon Rex'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359905100)
+}
+train (t-1sgz1p7834unae1fpz79gbtj9) {
+  utterance ("[g:httpCall] (제주개)[v:KindDB:'Jeju dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572356841711)
+}

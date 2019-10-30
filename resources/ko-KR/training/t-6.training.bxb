@@ -1,34 +1,35 @@
-train (t-618q0ninoajb4q48iz2dscffn) {
-  utterance ("[g:httpCall] (시베리안라이카)[v:KindDB:'Siberian Laika'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353383725)
+train (t-64ozuaxxbbc6o103b0929qg27) {
+  utterance ("[g:httpCall] (북구)[v:LocationDB:\"Buk-gu\"] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363162361)
 }
-train (t-63xupnxw5kzpdcep9dhc2ndld) {
-  utterance ("[g:httpCall] (카이훗)[v:KindDB:'Kaihud'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357642151)
+train (t-6700v9qfr7o3knsc08f7xe48e) {
+  utterance ("[g:httpCall] (양평군)[v:LocationDB:\"Yangpyeong County\"] (햄스터)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362388815)
 }
-train (t-65jnecjkc590wln220tdnin1p) {
-  utterance ("[g:httpCall] (살루키)[v:KindDB:'Saluki'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353052929)
+train (t-6klybqi9cxvl26ke9iwjt9bet) {
+  utterance ("[g:httpCall] (남구)[v:LocationDB:\"Nam-gu\"] (앵무새)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362260377)
 }
-train (t-66v3ibgb89qnh87iq8q99o90p) {
-  utterance ("[g:httpCall] (아나톨리안 셰퍼드)[v:KindDB:'Anatolian Sheppard'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353330818)
+train (t-6mywxozxwdkcrlc541oxjteiq) {
+  utterance ("[g:httpCall] (유성구)[v:LocationDB:\"Yoo Seong-gu\"] (야옹이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363203863)
 }
-train (t-6iq9zdqrggizvst6brpv2j4hq) {
-  utterance ("[g:httpCall] (도고 아르젠티노)[v:KindDB:'Dōgo Argentino'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352038708)
+train (t-6rguv5rsmlujyxmijtl4wvcu1) {
+  utterance ("[g:httpCall] (용인시 기흥구)[v:LocationDB:\"Kiheung-gu, Yongin\"] (오리)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362412049)
 }
-train (t-6khv1vtbim5yrlk00nrth0f5e) {
-  utterance ("[g:httpCall] (비즐라)[v:KindDB:Bezla] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353524798)
+train (t-6tsu1y2mxtshnwypdps3xyxsh) {
+  utterance ("[g:httpCall] (골든 리트리버)[v:KindDB:'Golden Retriever'] (검색해줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MghU3WG8hwcWKQxCVXzCCBTQrEYGBhYGRgYmAG0gxAFgTCADNYDigDAA==)
+  last-modified (1572323395069)
 }
-train (t-6w5zatwkwdvu93av6bc1e53s9) {
-  utterance ("[g:httpCall] (아메리칸 불독)[v:KindDB:'American Bulldog'] (찾아줘)[v:find:findby]")
-  last-modified (1572353194621)
+train (t-6u2jgrv5036v4nl54azxp9qaz) {
+  utterance ("[g:httpCall] (강서구)[v:LocationDB:\"Gangseo-gu\"] (잃어버린개)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362796312)
 }

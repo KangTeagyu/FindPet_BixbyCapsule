@@ -1,40 +1,50 @@
-train (t-q0zcwno960k26qtja7paid4u2) {
-  utterance ("[g:httpCall] (스핑크스)[v:KindDBcat:'sphinx'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360515132)
+train (t-q0ntbaud10jvzsmma1m5gqlvc) {
+  utterance ("[g:httpCall] (동구)[v:LocationDB:\"Donggu\"] (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363149751)
 }
-train (t-q3c5wokiuv3fxg5adihs7g40e) {
-  utterance ("[g:httpCall] (댄디 딘몬트 테리어)[v:KindDB:'Dandy Dinmont Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572351969817)
+train (t-q2gwxpt9ttdexavcvrh75yjgu) {
+  utterance ("[g:httpCall] (원주시)[v:LocationDB:\"Wonju\"] (냥냥이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362214526)
 }
 train (t-q3ywbtqln4ilg0v1wagm57bj5) {
   utterance ("[g:httpCall] (냥이)[v:Kinds:Cat] (찾아)[v:find:findby]")
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
   last-modified (1572183204954)
 }
-train (t-q951u5jtdiqv5n5fly393zc41) {
-  utterance ("[g:httpCall] (스피츠)[v:KindDB:'Spitz'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353411073)
+train (t-q4mq2fc4ynt09cyhndebyyd47) {
+  utterance ("[g:httpCall] (노원구)[v:LocationDB:\"Nowon District\"] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362567874)
 }
-train (t-qb08dyknpr5fibbtw7gsgkjcm) {
-  utterance ("[g:httpCall] (스테포드셔불테리어)[v:KindDB:'Staffordshire Boulterier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353411745)
+train (t-q7dw05e2nwun1dd96gv68d9m9) {
+  utterance ("[g:httpCall] (남동구)[v:LocationDB:\"Namdong District\"] (기타동물)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362485332)
 }
-train (t-qjf0tu81ju0lrhtaeilmzfo7p) {
-  utterance ("[g:httpCall] (마리노이즈)[v:KindDB:'Marinoise'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352148223)
+train (t-qdwmbxi4y54fdi6kc3prcew9l) {
+  utterance ("[g:httpCall] (동두천시)[v:LocationDB:\"Dongducheon\"] (야옹이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362347625)
 }
 train (t-qjy8cijr5n6ohro167jpn1ap1) {
   utterance ("[g:httpCall] (부산광역시)[v:Location:Busan]에서 (닭)[v:Kinds:Etc] (궁금해)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572245212448)
 }
+train (t-qkx2mv54jgntwd8x83mj3vjzm) {
+  utterance ("[g:httpCall] (동구)[v:LocationDB:\"Donggu\"] (유기묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362457740)
+}
 train (t-qmtvogvw88eqot6wx3vrf0x8o) {
   utterance ("[g:httpCall] (세종특별자치시)[v:Location:Sejong]에서 (기타)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572241548621)
+}
+train (t-qum7tbctq63e8vq4afnxqdqji) {
+  utterance ("[g:httpCall] (남구)[v:LocationDB:\"Nam-gu\"] (토끼)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362287889)
 }

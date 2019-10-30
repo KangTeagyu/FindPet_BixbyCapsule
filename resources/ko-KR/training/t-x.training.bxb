@@ -3,28 +3,13 @@ train (t-x3b04e94ooc8vhfdq7iatkdox) {
   plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
   last-modified (1572179839255)
 }
-train (t-xaz9cfw89z42uqzrii28y18hz) {
-  utterance ("[g:httpCall] (아메리칸 아키다)[v:KindDB:'American Akida'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353323883)
+train (t-x7tpa4ehtd2s8e7x9sqqr4ho5) {
+  utterance ("[g:httpCall] (성동구)[v:LocationDB:\"Seongdong District\"] (기타)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363120493)
 }
-train (t-xdfw9ffp5fg87nhwea0ipf7zx) {
-  utterance ("[g:httpCall] (발리네즈)[v:KindDBcat:'Balinese'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359682358)
-}
-train (t-xtdamre0b9uxtrqlwojnd88jh) {
-  utterance ("[g:httpCall] (콜리)[v:KindDB:'Collie'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357581511)
-}
-train (t-xxnoefgdno5d8f2jsz17irb1o) {
-  utterance ("[g:httpCall] (페터데일테리어)[v:KindDB:'Petterdale Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357727480)
-}
-train (t-xzbl5mwggczhfbsh1z4au0zc9) {
-  utterance ("[g:httpCall] (잉글리쉬 코카 스파니엘)[v:KindDB:'English Coca-Cola Spaniel'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356494227)
+train (t-xtmeaaiemjlvhn75li9lrddiy) {
+  utterance ("[g:httpCall] (기장군)[v:LocationDB:\"Gijang County\"] (냥냥이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362805571)
 }

@@ -1,0 +1,35 @@
+train (t-u3aplfi1zl6843s2nyaildakz) {
+  utterance ("[g:httpCall] (티베탄 마스티프)[v:KindDB:'Tibetan Mastiff'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357515182)
+}
+train (t-ugkbs7j6410oxx8qf1x50y2xd) {
+  utterance ("[g:httpCall] (브뤼셀그리펀)[v:KindDB:'Brussels Grifen'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353463505)
+}
+train (t-uknmrdwr3rhaj8x9pyatuswcf) {
+  utterance ("[g:httpCall] (브리티시 쇼트헤어)[v:KindDBcat:'British Shorthair'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360219613)
+}
+train (t-uq31f5wuc6ki9ydz22b41fn83) {
+  utterance ("[g:httpCall] (복서)[v:KindDB:'Boxer'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352961868)
+}
+train (t-uqn7jkca8ed8wccx8rmafhkbc) {
+  utterance ("[g:httpCall] (아메리칸 에스키모)[v:KindDB:'American Eskimo'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353322769)
+}
+train (t-urnlbvg37dg0x4bng4eif2a4w) {
+  utterance ("[g:httpCall] (불독)[v:KindDB:'bulldog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353468365)
+}
+train (t-uzbvpqpqxm891thy1ugmmoxu7) {
+  utterance ("[g:httpCall] (아메리칸불리)[v:KindDB:'American Bouli'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353313986)
+}

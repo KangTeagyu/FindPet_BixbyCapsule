@@ -14,12 +14,13 @@ layout-macro-def (findpet-details) {
               text {
                 value ("동물보호관리 시스템")
                 style (Title_L)
+                
               }
             }
             slot2 {
               single-line {
                 text {
-                  value ("유기동물 상세정보")
+                  value ("보호동물 상세정보")
                   style (Title_XS)
                 }
               }
@@ -64,12 +65,21 @@ layout-macro-def (findpet-details) {
               }
           }
       }
+      
+        single-line {
+            text {
+            value ("#{value(results.processState)}")
+            style (Title_M)
+            color (Green)
+            }
+        }
           partitioned {
             content {
               single-line {
                 text {
-                  value ("품종: #{value(results.kindCd)}")
+                  value ("품종: #{value(results.kindCd)}") //#{value(results.processState)}
                   style (Detail_L)
+                
                 }
               }
             single-line {

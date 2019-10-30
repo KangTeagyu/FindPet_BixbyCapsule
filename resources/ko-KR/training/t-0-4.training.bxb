@@ -1,0 +1,49 @@
+train (t-4ags98zkmg7ty03bq5brinz62) {
+  utterance ("[g:httpCall] (화이트리트리버)[v:KindDB:'Whiteitreiber'] (찾아줘)[v:find:findby]")
+  last-modified (1572358227614)
+}
+train (t-4bv46nqmhyor6pon0fywp1h4n) {
+  utterance ("[g:httpCall] (아키다)[v:KindDB:'Akida'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353295499)
+}
+train (t-4c9h7ucse39cvhzz02miazwwp) {
+  utterance ("[g:httpCall] (키스 훈드)[v:KindDB:'Keith Hunt'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357532617)
+}
+train (t-4e4cwtrb3kp4mdhth5087qdm3) {
+  utterance ("[g:httpCall] (알라스칸 말라뮤트)[v:KindDB:'Alaskan Malamute'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353670203)
+}
+train (t-4ipyzwt7wvoevabo9gn310hba) {
+  utterance ("[g:httpCall] (오스트랄리안 셰퍼드 독)[v:KindDB:'australian shepherds venom'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353710226)
+}
+train (t-4qxam2jvf82g7i6rmi01vyu2v) {
+  utterance ("[g:httpCall] (벨기에 그로넨달)[v:KindDB:'Gronendall of Belgium'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352808009)
+}
+train (t-4rx97nxl3n3ok8j5gthm7l9jl) {
+  utterance ("[g:httpCall] (핏불테리어)[v:KindDB:'Pitbuller'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358308102)
+}
+train (t-4ueiuxaojuo31bw3h9ocgxq57) {
+  utterance ("[g:httpCall] (코리아 트라이 하운드)[v:KindDB:'Korea Tri Hound'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357621103)
+}
+train (t-4wg9len1varb5cscgl8wbqtvy) {
+  utterance ("[g:httpCall] (비숑 프리제)[v:KindDB:'Vichael Frisée'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353507530)
+}
+train (t-4wgbhr84smylfwg7oq81kwdpy) {
+  utterance ("[g:httpCall] (브리타니 스파니엘)[v:KindDB:'Brittany Spagniel'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353515100)
+}

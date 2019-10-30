@@ -19,17 +19,23 @@ action (httpCall) {
      type (Location)
      min (Optional) max (One)
    }
-   input (kindDB) {
-     type (KindDB)
+
+   input (locationDB) {
+     type (LocationDB)
      min (Optional) max (One)
    }
    input (kindDBcat) {
      type (KindDBcat)
      min (Optional) max (One)
    }
+
+   input (kindDB) {
+     type (KindDB)
+     min (Optional) max (One)
+   }
    input (kinds) {
      type (Kinds)
-     min (Required) max (One)
+     min (Optional) max (One)
      default-init {
     intent {
      goal: Kinds

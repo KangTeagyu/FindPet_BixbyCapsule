@@ -1,30 +1,10 @@
-train (t-94j7fadwzh9aw1prx5a4ay6y4) {
-  utterance ("[g:httpCall] (사바나캣)[v:KindDBcat:'Savannah Kat'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360381070)
+train (t-90r015b1n62xdt14zib55otso) {
+  utterance ("[g:httpCall] (남구)[v:LocationDB:\"Nam-gu\"] (유기묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362810482)
 }
-train (t-9f4dk3608tq6p3ztbtv8se6ii) {
-  utterance ("[g:httpCall] (카레리안 베어독)[v:KindDB:'Kareian Beardock'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357643658)
-}
-train (t-9ilfovlnau2t8jd5shp399blu) {
-  utterance ("[g:httpCall] (달마시안)[v:KindDB:'Dalmatian'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572351964652)
-}
-train (t-9se1dzqo7sbdlqhls9fzh4yyu) {
-  utterance ("[g:httpCall] (프렌치 브리타니)[v:KindDB:'French Brittany'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572358106573)
-}
-train (t-9wb4y44zc3f9zh7mjwhshg4hk) {
-  utterance ("[g:httpCall] (사모예드)[v:KindDB:'Samoyed'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353046404)
-}
-train (t-9yl86uhx4759mi2pmaztj4xrl) {
-  utterance ("[g:httpCall] (한국 고양이)[v:KindDBcat:'Korean cat'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360743028)
+train (t-9v8ks1x3dxpdrbq5mfu33pbrc) {
+  utterance ("[g:httpCall] (원주시)[v:LocationDB:Wonju] (잃어버린강아지)[v:Kinds:Dog] (검색해주세요)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572353013953)
 }

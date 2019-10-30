@@ -1,0 +1,19 @@
+train (t-ihd38gjv13df8rk9fn5evidkb) {
+  utterance ("[g:httpCall] (파슨 러셀 테리어)[v:KindDB:'Parson Russell Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357680931)
+}
+train (t-iinv6xk69xkcaucw6qbfphmxu) {
+  utterance ("[g:httpCall] (벵갈)[v:KindDBcat:'Bengal'] (찾아줘)[v:find:findby]")
+  last-modified (1572359690427)
+}
+train (t-im7rsfmoducrgwvd47gvltxk7) {
+  utterance ("[g:httpCall] (그레이트 덴)[v:KindDB:'Great Den'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572351886662)
+}
+train (t-iquvd6p6mqf43vvsk6e0a6dyb) {
+  utterance ("[g:httpCall] (하일랜드 폴드)[v:KindDBcat:'Highland Fold'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360743223)
+}

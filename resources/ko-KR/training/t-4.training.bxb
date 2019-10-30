@@ -1,49 +1,25 @@
-train (t-4ags98zkmg7ty03bq5brinz62) {
-  utterance ("[g:httpCall] (화이트리트리버)[v:KindDB:'Whiteitreiber'] (찾아줘)[v:find:findby]")
-  last-modified (1572358227614)
+train (t-473haf3d1d9kde6pw85v1t4cr) {
+  utterance ("[g:httpCall] (안산시)[v:LocationDB:\"Ansan\"] (뱀)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363210821)
 }
-train (t-4bv46nqmhyor6pon0fywp1h4n) {
-  utterance ("[g:httpCall] (아키다)[v:KindDB:'Akida'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353295499)
+train (t-4bzgdou2gwi7ooua9qti5g3vq) {
+  utterance ("[g:httpCall] (영월군)[v:LocationDB:\"Yeongwol County\"] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363227234)
 }
-train (t-4c9h7ucse39cvhzz02miazwwp) {
-  utterance ("[g:httpCall] (키스 훈드)[v:KindDB:'Keith Hunt'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357532617)
+train (t-4gakquyqp7240ksne9gtn1h72) {
+  utterance ("[g:httpCall] (북구)[v:LocationDB:\"Buk-gu\"] (개)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362297063)
 }
-train (t-4e4cwtrb3kp4mdhth5087qdm3) {
-  utterance ("[g:httpCall] (알라스칸 말라뮤트)[v:KindDB:'Alaskan Malamute'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353670203)
+train (t-4nd6qbw1jjmhxp97kq5gtacrt) {
+  utterance ("[g:httpCall] (서구)[v:LocationDB:\"Western\"] (뱀)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363059928)
 }
-train (t-4ipyzwt7wvoevabo9gn310hba) {
-  utterance ("[g:httpCall] (오스트랄리안 셰퍼드 독)[v:KindDB:'australian shepherds venom'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353710226)
-}
-train (t-4qxam2jvf82g7i6rmi01vyu2v) {
-  utterance ("[g:httpCall] (벨기에 그로넨달)[v:KindDB:'Gronendall of Belgium'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352808009)
-}
-train (t-4rx97nxl3n3ok8j5gthm7l9jl) {
-  utterance ("[g:httpCall] (핏불테리어)[v:KindDB:'Pitbuller'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572358308102)
-}
-train (t-4ueiuxaojuo31bw3h9ocgxq57) {
-  utterance ("[g:httpCall] (코리아 트라이 하운드)[v:KindDB:'Korea Tri Hound'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357621103)
-}
-train (t-4wg9len1varb5cscgl8wbqtvy) {
-  utterance ("[g:httpCall] (비숑 프리제)[v:KindDB:'Vichael Frisée'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353507530)
-}
-train (t-4wgbhr84smylfwg7oq81kwdpy) {
-  utterance ("[g:httpCall] (브리타니 스파니엘)[v:KindDB:'Brittany Spagniel'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353515100)
+train (t-4wsf63tbwjc5kw6n9r0jt3v6i) {
+  utterance ("[g:httpCall] (가정보호)[v:LocationDB:\"Home protection\"] (페릿)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362522090)
 }

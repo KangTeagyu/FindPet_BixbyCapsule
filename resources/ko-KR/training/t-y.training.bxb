@@ -1,40 +1,15 @@
-train (t-ydcfoudckxoknbno06zj4pv47) {
-  utterance ("[g:httpCall] (아메리칸 쇼트헤어)[v:KindDBcat:'American Shorthair'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360691747)
+train (t-y12fgw8ib5mmjcjpjzjygaqyi) {
+  utterance ("[g:httpCall] (고양시)[v:LocationDB:\"Goyang-si\"] (유기견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362310859)
 }
 train (t-yf0iweq9mgzpyig4oy40n5ckb) {
   utterance ("[g:httpCall] (대전시)[v:Location:Daejeon]에서 (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572241670911)
 }
-train (t-yfksjxxxgi0d28e0hv3j013ru) {
-  utterance ("[g:httpCall] (미텔 스피츠)[v:KindDB:'Mitel Spitz'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352231521)
-}
-train (t-yjoa1xmpiw1f2w5luw9j6x5sy) {
-  utterance ("[g:httpCall] (푸들)[v:KindDB:'Poodle'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357805776)
-}
-train (t-ypjirfrokcs53xq36rm0u34cx) {
-  utterance ("[g:httpCall] (샴)[v:KindDBcat:'Siamese'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360371911)
-}
-train (t-ysxhgfq3jgxp4x4a1g8yo9nhp) {
-  utterance ("[g:httpCall] (스코티쉬 테리어)[v:KindDB:'Scotish Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353105138)
-}
-train (t-yyinytqeng0ow47yzwfqr8rqo) {
-  utterance ("[g:httpCall] (이탈리안 그레이 하운드)[v:KindDB:'Italian Greyhound'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356295086)
-}
-train (t-yyrsrv2654bwer3v5ms1r8s3o) {
-  utterance ("[g:httpCall] (케언 테리어)[v:KindDB:'Cairn Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357631864)
+train (t-ywgxggr5634yj8qyiruvx7vma) {
+  utterance ("[g:httpCall] (은평구)[v:LocationDB:\"Eunpyeong-gu\"] (햄스터)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362741212)
 }

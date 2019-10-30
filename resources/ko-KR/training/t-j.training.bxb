@@ -1,30 +1,15 @@
-train (t-j05zk9q1tkwgbmeipse4qtydq) {
-  utterance ("[g:httpCall] (웰시 코기 카디건)[v:KindDB:'Welsh Cogie Cardigan'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356265292)
+train (t-j8g0meitdcwfqtn7wwpcbnly7) {
+  utterance ("[g:httpCall] (양양)[v:LocationDB:'Yangyang County'] (댕댕이)[v:Kinds:Dog] (검색)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572352693096)
 }
-train (t-j4csuqu5qsu4cugbood8aacmg) {
-  utterance ("[g:httpCall] (도베르만)[v:KindDB:'Doberman'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352035480)
+train (t-jg6k52yc8ehgv9ielpeoqz57z) {
+  utterance ("[g:httpCall] (마포구)[v:LocationDB:\"Mapo District\"] (야옹이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362586405)
 }
-train (t-j6rrofvmp6ly2gwimcufrftr8) {
-  utterance ("[g:httpCall] (아프간 하운드)[v:KindDB:'Afghan Hound'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353602937)
-}
-train (t-jeqme2cwyphir61k95pia3k4s) {
-  utterance ("[g:httpCall] (폭스테리어)[v:KindDB:'Foxerrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357751280)
-}
-train (t-jj19gvds5ykckel6wjnarljnj) {
-  utterance ("[g:httpCall] (보르조이)[v:KindDB:'Borzoi'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352934238)
-}
-train (t-jv4945wr5z5wztntcc9xtavo8) {
-  utterance ("[g:httpCall] (먼치킨)[v:KindDBcat:'Munchkin'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360157354)
+train (t-jrww3ggxabik2sscgqbqt77jz) {
+  utterance ("[g:httpCall] (동구)[v:LocationDB:\"Donggu\"] (거북이)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362264945)
 }

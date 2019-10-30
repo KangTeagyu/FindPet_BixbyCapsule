@@ -1,25 +1,15 @@
-train (t-a05lylm31a2exdjvca5v5rycr) {
-  utterance ("[g:httpCall] (셰퍼드)[v:KindDB:'Sheppard'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353092517)
+train (t-a59tvq84utx0qfzdia6u0rs0a) {
+  utterance ("[g:httpCall] (연제구)[v:LocationDB:\"Yeonje District\"] (앵무새)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362949563)
 }
-train (t-a6hajv7ulhkm4dykwynyjccyy) {
-  utterance ("[g:httpCall] (토이 푸들)[v:KindDB:'Toy Poodle'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357520775)
+train (t-awabhkrneifl05zuhxph45aaw) {
+  utterance ("[g:httpCall] (동해시)[v:LocationDB:\"Donghae\"] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362123029)
 }
-train (t-aeei3ym06krmo72ft511x0rhj) {
-  utterance ("[g:httpCall] (울프독)[v:KindDB:'Wolfdog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356251959)
-}
-train (t-areax8m4cwtqil212f9nw6uas) {
-  utterance ("[g:httpCall] (비글)[v:KindDB:Beagle] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353499497)
-}
-train (t-azhfs0im101jgad8hgvp3f5hd) {
-  utterance ("[g:httpCall] (맹크스)[v:KindDBcat:'Manx'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360156805)
+train (t-axfjn5m4ysvpw2crxoedn7y6y) {
+  utterance ("[g:httpCall] (강릉시)[v:LocationDB:Gangneung] (믹스견)[v:KindDB:'mixed dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MghU3WG8hwcWKQwybnk5+cWJKZnweUl8AmD2IwsDAwMjAxMANpBiALAmEASQ4A)
+  last-modified (1572351958823)
 }

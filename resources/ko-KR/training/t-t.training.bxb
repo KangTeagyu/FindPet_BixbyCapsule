@@ -1,15 +1,15 @@
-train (t-trr2e4thqykrkhu5wv4njdbd0) {
-  utterance ("[g:httpCall] (믹스견)[v:KindDB:'mixed dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352241238)
+train (t-t4iej7oaznyfc5hpcsci82xk0) {
+  utterance ("[g:httpCall] (송파구)[v:LocationDB:\"Songpa-gu\"] (뱀)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363172751)
 }
-train (t-tslj0bdebn0kwndh90xi2x6q3) {
-  utterance ("[g:httpCall] (로디지안 리즈백 )[v:KindDB:'Rhodesian Leedsback'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352119412)
+train (t-tez6nw0chn4kahf5vdezpe41x) {
+  utterance ("[g:httpCall] (여주시)[v:LocationDB:\"Yeoju\"] (이구아나)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362393457)
 }
-train (t-tyjqxvqgp6n3xgc55zrl1jnl5) {
-  utterance ("[g:httpCall] (벨기에 테뷰런)[v:KindDB:'Belgian Teburen'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353477452)
+train (t-tfy410zrghx2vuvagwzh4zrom) {
+  utterance ("[g:httpCall] (수영구)[v:LocationDB:\"Swimming pool\"] (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363057313)
 }

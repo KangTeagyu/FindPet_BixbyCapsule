@@ -1,0 +1,25 @@
+train (t-f9t6m6elifgmztcvjw60vekvs) {
+  utterance ("[g:httpCall] (발리네즈)[v:KindDBcat:'Balinese'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360151469)
+}
+train (t-fc69ih5ufxofu4xndror1sbkz) {
+  utterance ("[g:httpCall] (아메리칸 핏불 테리어)[v:KindDB:'American pit bull terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353313348)
+}
+train (t-ff7psocyjf0n62rxlwg6lcycc) {
+  utterance ("[g:httpCall] (실리햄 테리어)[v:KindDB:'Ciliham Terrier'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353337482)
+}
+train (t-fkjw9pk0rdrrt8vvtpmeuwyd2) {
+  utterance ("[g:httpCall] (뉴펀들랜드)[v:KindDB:'Newfoundland'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572351954258)
+}
+train (t-fxr8v6i5yb4xajvhmtshcekri) {
+  utterance ("[g:httpCall] (피레니안 마운틴 독)[v:KindDB:'Pyrenian Mountain Dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572358185260)
+}

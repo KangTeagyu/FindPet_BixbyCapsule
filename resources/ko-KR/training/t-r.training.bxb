@@ -1,25 +1,55 @@
-train (t-rehgh2e6w6mnf1maqe9zwjx3p) {
-  utterance ("[g:httpCall] (비어디드 콜리)[v:KindDB:'Bearded Colley'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353530055)
+train (t-r00mtzoo3ol00z2r8xbtqk8r2) {
+  utterance ("[g:httpCall] (양천구)[v:LocationDB:\"Yangcheon District\"] (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362727371)
 }
-train (t-ri87g0plh7wdxn3ww7ks4b3o0) {
-  utterance ("[g:httpCall] (레이크랜드 테리어)[v:KindDB:'Lakeland Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352111318)
+train (t-r0c03tcdqkuifyqt17qn1mkgw) {
+  utterance ("[g:httpCall] (옹진군)[v:LocationDB:\"Ongjin County\"] (이구아나)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362512924)
 }
-train (t-rki5u49up228t7awmgmzir6vx) {
-  utterance ("[g:httpCall] (에어델 테리어)[v:KindDB:'Airdell Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353691882)
+train (t-r8k8waxw0eier9ehswjcmtx5l) {
+  utterance ("[g:httpCall] (속초시)[v:LocationDB:Sokcho] (실종견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363232375)
 }
-train (t-ron0qajfeeoskmkc76leijvew) {
-  utterance ("[g:httpCall] (메인쿤)[v:KindDBcat:'Maine Coon'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359666165)
+train (t-rdcu50azvtwk11ji1diih0955) {
+  utterance ("[g:httpCall] (수원시)[v:LocationDB:\"Suwon-si\"] (기타)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362361286)
 }
-train (t-rq2qce9cw1sx9uxpbes9yjre1) {
-  utterance ("[g:httpCall] (스노우 슈)[v:KindDBcat:'Snow shoe'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360483685)
+train (t-rdlphece05uqhxw6abqsrhdqi) {
+  utterance ("[g:httpCall] (부천시)[v:LocationDB:\"Bucheon\"] (냥이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362352113)
+}
+train (t-rpnc8mfh3c671i601przk9ili) {
+  utterance ("[g:httpCall] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDAJgViMDAzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1572323640788)
+}
+train (t-rs5ytylihs412w0wi25cq3p0n) {
+  utterance ("[g:httpCall] (영등포구)[v:LocationDB:\"Yeongdeungpo District\"] (앵무새)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363170714)
+}
+train (t-ru2zsqiepabyme9f5jsu3ytc4) {
+  utterance ("[g:httpCall] (수성구)[v:LocationDB:\"Suseong District\"] (실종견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363157078)
+}
+train (t-rwmf5tcyb510zmqzudptwv7kw) {
+  utterance ("[g:httpCall] (동작구)[v:LocationDB:\"Dongjak District\"] (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363176105)
+}
+train (t-rx9yr15x5zeds0xbauj93gb5i) {
+  utterance ("[g:httpCall] (남양주시)[v:LocationDB:\"Namyangju\"] (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362343063)
+}
+train (t-rxexfk2d4ykm66xj7dcmtq94e) {
+  utterance ("[g:httpCall] (서구)[v:LocationDB:\"Western\"] (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362462517)
 }

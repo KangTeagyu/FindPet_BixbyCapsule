@@ -1,19 +1,25 @@
-train (t-ihd38gjv13df8rk9fn5evidkb) {
-  utterance ("[g:httpCall] (파슨 러셀 테리어)[v:KindDB:'Parson Russell Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357680931)
+train (t-ii9asxawguzatqz68dvwnlh58) {
+  utterance ("[g:httpCall] (사하구)[v:LocationDB:\"Saha District\"] (기타동물)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363065521)
 }
-train (t-iinv6xk69xkcaucw6qbfphmxu) {
-  utterance ("[g:httpCall] (벵갈)[v:KindDBcat:'Bengal'] (찾아줘)[v:find:findby]")
-  last-modified (1572359690427)
+train (t-im3lp0kal3y2r1tfbdoframqr) {
+  utterance ("[g:httpCall] (구리시)[v:LocationDB:\"Guri\"] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362329170)
 }
-train (t-im7rsfmoducrgwvd47gvltxk7) {
-  utterance ("[g:httpCall] (그레이트 덴)[v:KindDB:'Great Den'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572351886662)
+train (t-imfxikl72zfm6vvco89zkru72) {
+  utterance ("[g:httpCall] (가평군)[v:LocationDB:\"Gapyeong County\"] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362306228)
 }
-train (t-iquvd6p6mqf43vvsk6e0a6dyb) {
-  utterance ("[g:httpCall] (하일랜드 폴드)[v:KindDBcat:'Highland Fold'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360743223)
+train (t-iv6ii84xpk29uxk49p6dgznpc) {
+  utterance ("[g:httpCall] (횡성군)[v:LocationDB:\"Hoengseong County\"] (고슴도치)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363218509)
+}
+train (t-ivqoocjdlhda247b6ewbm6po4) {
+  utterance ("[g:httpCall] (동해시)[v:LocationDB:Donghae] (댕댕이)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572359858636)
 }

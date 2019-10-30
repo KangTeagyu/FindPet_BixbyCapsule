@@ -72,6 +72,10 @@ structure (Results) {
     type (NoticeEdt)
     min (Optional) max (Many)
   }
+   property (noticeComment) {
+    type (NoticeComment)
+    min (Optional) max (Many)
+  }
   property (neuterYn) {
     type (NeuterYn)
     min (Optional) max (Many)

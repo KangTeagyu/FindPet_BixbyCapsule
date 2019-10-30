@@ -1,15 +1,25 @@
-train (t-cono0enxhkarf8igpt6njuj55) {
-  utterance ("[g:httpCall] (시베리안 포레스트)[v:KindDBcat:'Siberian Forest'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360567673)
+train (t-c0fyz7h1stc5jm2hn3y57kga1) {
+  utterance ("[g:httpCall] (강릉시)[v:LocationDB:Gangneung]에서 (찾아줘)[v:find:findby]")
+  plan (Y2BhkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8Mgh03WJz85sSQzP8/FiUECmzyIwcDMwMjABCQZgDQIQgBcFAA=)
+  last-modified (1572351774069)
 }
-train (t-cu8pmkenv6y2c9122tysdgscg) {
-  utterance ("[g:httpCall] (아이리쉬 울프 하운드)[v:KindDB:'Irish Wolf Hound'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353248764)
+train (t-c1dvxalz8xsm60qmvcdntjeue) {
+  utterance ("[g:httpCall] (용산구)[v:LocationDB:'Yongsan District'] (댕댕이)[v:Kinds:Dog] (검색해줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572350463597)
 }
-train (t-cw87lv2lm3ierw6i1wwn4uo02) {
-  utterance ("[g:httpCall] (러시안 블루)[v:KindDBcat:'Russian blue'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359645509)
+train (t-cdcmkh9s423yxs7swvso78i81) {
+  utterance ("[g:httpCall] (동구)[v:LocationDB:\"Donggu\"] (강아지)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362773700)
+}
+train (t-ci0vxa64pf5u4i3909zaibh3v) {
+  utterance ("[g:httpCall] (강남구)[v:LocationDB:\"Gangnam-gu\"] (토끼)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363188302)
+}
+train (t-coc63siisgqy96etk6oeakad8) {
+  utterance ("[g:httpCall] (서구)[v:LocationDB:\"Western\"] (거북이)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362503649)
 }

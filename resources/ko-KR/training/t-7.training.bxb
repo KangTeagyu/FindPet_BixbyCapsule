@@ -1,15 +1,5 @@
-train (t-713xezjlrc49w0vji70125wgm) {
-  utterance ("[g:httpCall] (코카 푸)[v:KindDB:'Coca-Cola Poo'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572357589343)
-}
-train (t-76sa4fyeghreve5ntfhsc37l4) {
-  utterance ("[g:httpCall] (웨스트하이랜드화이트테리어)[v:KindDB:'West Highland White Terrier'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356268699)
-}
-train (t-7kpoolur8qsmf3no6vneg41ex) {
-  utterance ("[g:httpCall] (레그돌-라가머핀)[v:KindDBcat:'Legdol-Lagar Muffin'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359644572)
+train (t-76fkom3yssu1zeln6luzzoye6) {
+  utterance ("[g:httpCall] (철원군)[v:LocationDB:\"Cheorwon County\"] (야옹이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362228253)
 }

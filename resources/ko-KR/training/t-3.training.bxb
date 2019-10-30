@@ -1,40 +1,30 @@
-train (t-36ftm0j46663z8xa007emm1xj) {
-  utterance ("[g:httpCall] (삽살개)[v:KindDB:'Sapsal dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353537386)
+train (t-33ka8azrm3xbgs8ktc26f0cfz) {
+  utterance ("[g:httpCall] (광산구)[v:LocationDB:\"Mine District\"] (페릿)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362283324)
 }
-train (t-3gybzdvl1nogf6rimmejjy43x) {
-  utterance ("[g:httpCall] (저먼 셰퍼드 독)[v:KindDB:'German Shepherd Dog'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572356746988)
-}
-train (t-3hu2ehwx677of7vb4nio20v1k) {
-  utterance ("[g:httpCall] (아이리쉬 세터)[v:KindDB:'Irish Setter'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353310743)
-}
-train (t-3jultp1nat3k61v6pfv86g5vs) {
-  utterance ("[g:httpCall] (노르웨이 숲)[v:KindDBcat:'Norwegian Forest'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572359621408)
+train (t-3jqmh89dk5hl5wj4r8eh4dqj9) {
+  utterance ("[g:httpCall] (의왕시)[v:LocationDB:\"Uiwang-si\"] (개)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572363207393)
 }
 train (t-3ohsg5rzbybc2njovqk5aqun2) {
   utterance ("[g:httpCall] (강원도)[v:Location:Gangwon]에서 (냥냥이)[v:Kinds:Cat] (실행해줘)[v:find:findby]")
   plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8jAodEnPzmxJDM/j0ECmyyIwcDCwMjAxMAMpBmALAiEASQ5AA==)
   last-modified (1572245366513)
 }
-train (t-3pgmbgboa62pksp35j0rjhroh) {
-  utterance ("[g:httpCall] (시베리안 허스키)[v:KindDB:'Siberian Husky'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572353144170)
+train (t-3rtx5qh8kipaa6xua7cm4yex7) {
+  utterance ("[g:httpCall] (속초시)[v:LocationDB:\"Sokcho\"] (실종견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362132208)
 }
-train (t-3r0v1lyu3lzu7hg370sdu1lcw) {
-  utterance ("[g:httpCall] (싱가퓨라)[v:KindDBcat:'Singaporepura'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572360566244)
+train (t-3z5456jo7k4m7r8zkc9txalr0) {
+  utterance ("[g:httpCall] (영월)[v:LocationDB:'Yeongwol County'] (실종견)[v:Kinds:Dog] (검색결과보여줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572352884782)
 }
-train (t-3tclj7wbix6wuf7jl23okf89r) {
-  utterance ("[g:httpCall] (라이카)[v:KindDB:'Laika'] (찾아줘)[v:find:findby]")
-  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
-  last-modified (1572352087611)
+train (t-3zq44k19cwntkrbnk1qghzknr) {
+  utterance ("[g:httpCall] (정선군)[v:LocationDB:\"Jeongseon County\"] (실종묘)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkM7My0iMT8qsSKrUS8vMSylILTHSC0otLs0pKWaQwSaZUVJS4JyYk8MgiU3WG8goZpDDJuWTn5xYkpmf5+LEIIFNHsRgYGFgZGBiYAbSDEAWBMIAkhwA)
+  last-modified (1572362223648)
 }

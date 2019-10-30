@@ -1,0 +1,29 @@
+train (t-n4z5lc1lpe2vdq30a149fhn1b) {
+  utterance ("[g:httpCall] (데본 렉스)[v:KindDBcat:'Devon Rex'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359623347)
+}
+train (t-neuzal0rsfphw1fd65zbi5mt3) {
+  utterance ("[g:httpCall] (제페니즈칭)[v:KindDB:'Zephenizqing'] (찾아줘)[v:find:findby]")
+  last-modified (1572356822778)
+}
+train (t-no38edzjczwrarc5i0w6dj3bz) {
+  utterance ("[g:httpCall] (스코티시폴드)[v:KindDBcat:'Scottish Fold'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360513982)
+}
+train (t-nu43xcjwg5tmmvzo6dgvdnxss) {
+  utterance ("[g:httpCall] (포인터)[v:KindDB:'Pointer'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572357743468)
+}
+train (t-nvsjovdan5ctichrvx2vv3y9f) {
+  utterance ("[g:httpCall] (러시안 블루)[v:KindDBcat:'Russian blue'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360066083)
+}
+train (t-nz2ryi64i913ud649x9aptnx1) {
+  utterance ("[g:httpCall] (미디엄 푸들)[v:KindDB:'Medium Poodle'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572352225397)
+}

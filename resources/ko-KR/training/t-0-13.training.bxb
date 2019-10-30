@@ -1,0 +1,15 @@
+train (t-cono0enxhkarf8igpt6njuj55) {
+  utterance ("[g:httpCall] (시베리안 포레스트)[v:KindDBcat:'Siberian Forest'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572360567673)
+}
+train (t-cu8pmkenv6y2c9122tysdgscg) {
+  utterance ("[g:httpCall] (아이리쉬 울프 하운드)[v:KindDB:'Irish Wolf Hound'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGUTQJ78y8FBcnBhEswsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572353248764)
+}
+train (t-cw87lv2lm3ierw6i1wwn4uo02) {
+  utterance ("[g:httpCall] (러시안 블루)[v:KindDBcat:'Russian blue'] (찾아줘)[v:find:findby]")
+  plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGCTQJ78y8FBen5MQSBhEsMsUMwmiiaUBRBhYGRgYmBmYgzQBkQSAMMIPlgDIA)
+  last-modified (1572359645509)
+}

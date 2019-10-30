@@ -1,0 +1,140 @@
+vocab(LocationDB){
+
+"Gangneung"{"강릉시""강릉"}
+"Goseong County"{"고성군""고성"}
+"Donghae"{"동해시""동해"}
+"Samcheok"{"삼척시""삼척"}
+"Sokcho"{"속초시""속초"}
+"Yanggu County"{"양구군""양구"}
+"Yangyang County"{"양양군""양양"}
+"Yeongwol County"{"영월군""영월"}
+"Wonju"{"원주시""원주"}
+"Inje County"{"인제군""인제"}
+"Jeongseon County"{"정선군""정선"}
+"Cheorwon County"{"철원군""철원"}
+"Chuncheon"{"춘천시""춘천"}
+"Taebaek"{"태백시""태백"}
+"Pyeongchang County"{"평창군""평창"}
+"Hongcheon County"{"홍천군""홍천"}
+"Hwacheon County"{"화천군""화천"}
+"Hoengseong County"{"횡성군""횡성"}
+//"시작"{"울산"""}
+"Nam-gu"{"남구"}
+"Donggu"{"동구"}
+"Buk-gu"{"북구"}
+"Ulju County"{"울주군""울주"}
+"Jung-gu"{"중구"}
+//"시작"{"광주"}
+"Mine District"{"광산구""광산"}
+"Nam-gu"{"남구"}
+"Donggu"{"동구"}
+"Buk-gu"{"북구"}
+"Western"{"서구"}
+//"시작"{"경기"}
+"Gapyeong County"{"가평군""가평"}
+"Goyang-si"{"고양시""고양"}
+"Gwacheon"{"과천시""과천"}
+"Gwangmyeong-si"{"광명시""광명"}
+"Gwangju"{"광주시""광주"}
+"Guri"{"구리시""구리"}
+"Gunpo"{"군포시""군포"}
+"Kimpo"{"김포시""김포"}
+"Namyangju"{"남양주시""남양주"}
+"Dongducheon"{"동두천시""동두천"}
+"Bucheon"{"부천시""부천"}
+"Seongnam"{"성남시""성남"}
+"Suwon-si"{"수원시""수원"}
+"Siheung"{"시흥시""시흥"}
+"Ansan"{"안산시""안산"}
+"Anseong"{"안성시""안성"}
+"Anyang"{"안양시""안양"}
+"Yangju"{"양주시""양주"}
+"Yangpyeong County"{"양평군""양평"}
+"Yeoju"{"여주시""여주"}
+"Yeoncheon County"{"연천군""연천"}
+"Osan"{"오산시""오산"}
+"Yongin"{"용인시""용인"}
+"Kiheung-gu, Yongin"{"기흥구" "기흥"}
+"Uiwang-si"{"의왕시""의왕"}
+"Uijeongbu"{"의정부시""의정부"}
+"Icheon"{"이천시""이천"}
+"Paju"{"파주시""파주"}
+"Pyeongtaek"{"평택시""평택"}
+"Pocheon"{"포천시""포천"}
+"Hanam"{"하남시""하남"}
+"Hwaseong-si"{"화성시""화성"}
+//"시작"{"대전"""}
+"Daedeok-gu"{"대덕구""대덕"}
+"Donggu"{"동구"}
+"Western"{"서구"}
+"Yoo Seong-gu"{"유성구""유성"}
+"Jung-gu"{"중구"}
+//"시작"{"인천"""}
+"Ganghwa county"{"강화군""강화"}
+"Gyeyang District"{"계양구""계양"}
+"Namdong District"{"남동구""남동"}
+"Donggu"{"동구"}
+"Michuhol District"{"미추홀구""미추홀"}
+"Bupyeong-gu"{"부평구""부평"}
+"Western"{"서구"}
+"Yeonsu District"{"연수구""연수"}
+"Ongjin County"{"옹진군""옹진"}
+"Jung-gu"{"중구"}
+"Home protection"{"가정보호"}
+"Gangnam-gu"{"강남구""강남"}
+"Gangdong-gu"{"강동구""강동"}
+"Gangbuk-gu"{"강북구""강북"}
+"Gangseo-gu"{"강서구""강서"}
+"individual business"{"개별사업"}
+"Gwanak-gu"{"관악구""관악"}
+"Gwangjin District"{"광진구""광진"}
+"Kurogu"{"구로구""구로"}
+"Geumcheon District"{"금천구""금천"}
+"Nowon District"{"노원구""노원"}
+"Dobong District"{"도봉구""도봉"}
+"Dongdaemun District"{"동대문구""동대문"}
+"Dongjak District"{"동작구""동작"}
+"Mapo District"{"마포구""마포"}
+"Seodaemun District"{"서대문구""서대문"}
+"Seocho District"{"서초구""서초"}
+"Seongdong District"{"성동구""성동"}
+"Seongbuk-gu"{"성북구""성북"}
+"Songpa-gu"{"송파구""송파"}
+"Yangcheon District"{"양천구""양천"}
+"Yeongdeungpo District"{"영등포구""영등포"}
+"Yongsan District"{"용산구""용산"}
+"Eunpyeong-gu"{"은평구""은평"}
+"Jongno-gu"{"종로구""종로"}
+"Jung-gu"{"중구"}
+"Jungnang District"{"중랑구""중랑"}
+//"시작"{"대구"}
+"Nam-gu"{"남구"}
+"Dalseo District"{"달서구""달서"}
+"Dalseong County"{"달성군""달성"}
+"Donggu"{"동구"}
+"Buk-gu"{"북구"}
+"Western"{"서구"}
+"Suseong District"{"수성구""수성"}
+"Jung-gu"{"중구"}
+//"시작"{"부산"}
+"Gangseo-gu"{"강서구""강서"}
+"Geumjeong-gu"{"금정구""금정"}
+"Gijang County"{"기장군""기장"}
+"Nam-gu"{"남구"}
+"Donggu"{"동구"}
+"Dongnae District"{"동래구""동래"}
+"Busan Jin District"{"부산진구""부산진"}
+"Buk-gu"{"북구"}
+"Sasang District"{"사상구""사상"}
+"Saha District"{"사하구""사하"}
+"Western"{"서구"}
+"Swimming pool"{"수영구""수영"}
+"Yeonje District"{"연제구""연제"}
+"Yeongdo District"{"영도구""영도"}
+"Jung-gu"{"중구"}
+"test time"{"테스트시""테스트"}
+"Haeundae District"{"해운대구""해운대"}
+
+
+
+}
