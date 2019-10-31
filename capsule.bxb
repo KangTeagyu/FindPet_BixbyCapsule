@@ -1,6 +1,6 @@
 capsule {
   id (inha_bixby.findpet)
-  version (1.0.2)
+  version (1.0.3)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)

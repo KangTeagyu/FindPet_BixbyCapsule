@@ -33,10 +33,13 @@ action (httpCall) {
      type (KindDB)
      min (Optional) max (One)
    }
+   
    input (kinds) {
      type (Kinds)
      min (Optional) max (One)
+    
      default-init {
+        if(!(exists(kindDB)||exists(kindDBcat))){
     intent {
      goal: Kinds
      value: Kinds(Dog)
@@ -44,6 +47,7 @@ action (httpCall) {
      value: Kinds(Etc)
     }
    }
+     }
  }
  }
  output (Results){

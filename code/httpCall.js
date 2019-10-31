@@ -21,6 +21,24 @@ module.exports.function = function httpCall (inputDate, kinds,kindN ,find, locat
       kinds = 429900}
 
 
+// if(kindDB){
+//   for(var i = 0; i < Dummy_Dog.length ; i++){
+//     if(kindDB == Dummy_Dog[i].name){
+//     var kindN = Dummy_Dog[i].kind
+//     kinds = 417000}
+//     }
+// }
+// else if(kindDB){
+//   for(var i = 0; i < Dummy_Cat.length ; i++){
+//     if(kindDB == Dummy_Cat[i].name){
+//     var kindN = Dummy_Cat[i].kind
+//     kinds = 422400}
+//     }
+// }
+
+// else{ //에러 처리를 위해 꼭 있어야 됨
+//   kinds = 0
+// }
   for(var i = 0; i < Dummy_Dog.length ; i++){
     if(kindDB == Dummy_Dog[i].name){
     var kindN = Dummy_Dog[i].kind

@@ -20,24 +20,45 @@ if (kinds == 'Dog') {
     }else if (kinds == 'Etc') {
       kinds = 429900}
 
-if(kindDB){
-  for(var i = 0; i < Dummy_Dog.length ; i++){
-    if(kindDB == Dummy_Dog[i].name){
-    var kindN = Dummy_Dog[i].kind
-    kinds = 417000}
-    }
-}
-else if(kindDB){
-  for(var i = 0; i < Dummy_Cat.length ; i++){
-    if(kindDB == Dummy_Cat[i].name){
-    var kindN = Dummy_Cat[i].kind
-    kinds = 422400}
-    }
-}
 
-else{ //에러 처리를 위해 꼭 있어야 됨
-  kinds = 0
-}
+for(var i = 0; i < Dummy_Dog.length ; i++){
+  if(kindDB == Dummy_Dog[i].name){
+  var kindN = Dummy_Dog[i].kind
+  var kinds = 417000}
+  }
+
+
+for(var i = 0; i < Dummy_Cat.length ; i++){
+  if(kindDBcat == Dummy_Cat[i].name){
+  var kindN = Dummy_Cat[i].kind
+  var kinds = 422400}
+  }
+
+
+for(var i = 0; i < Dummy_Location.length ; i++){
+  if(locationDB == Dummy_Location[i].orgdownNm){
+  var subLocation = Dummy_Location[i].orgCd
+  location = Dummy_Location[i].uprCd
+  }
+}  
+// if(kindDB){
+//   for(var i = 0; i < Dummy_Dog.length ; i++){
+//     if(kindDB == Dummy_Dog[i].name){
+//     var kindN = Dummy_Dog[i].kind
+//     kinds = 417000}
+//     }
+// }
+// else if(kindDB){
+//   for(var i = 0; i < Dummy_Cat.length ; i++){
+//     if(kindDB == Dummy_Cat[i].name){
+//     var kindN = Dummy_Cat[i].kind
+//     kinds = 422400}
+//     }
+// }
+
+// else{ //에러 처리를 위해 꼭 있어야 됨
+//   kinds = 0
+// }
 
   for(var i = 0; i < Dummy_Location.length ; i++){
     if(locationDB == Dummy_Location[i].orgdownNm){
