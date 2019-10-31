@@ -23,6 +23,16 @@ train (t-5bcpeugq8a1jneitnhrlywyqw) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455444270)
 }
+train (t-5bn86yifo9ghpo6ptgrv61cmk) {
+  utterance ("[g:httpcallkind] (서울시)[v:Location:Seoul]에서 (시츄)[v:KindDB:'Shih Tzu'] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDHIpdRUlKQnJiTkw3kM0hiUeANpF2cGKSxSPnkJyeWZObnMYhjkQTRDCwMjAxMDMxAmgHIgkAYQJIDAA==)
+  last-modified (1572530554126)
+}
+train (t-5hj6ma81glfzaw8t65plgyg32) {
+  utterance ("[g:httpcallkind] (서울시)[v:Location:Seoul]에서 (믹스견)[v:KindDB:'mixed dog'] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDHIpdRUlKQnJiTkw3kM0hiUeANpF2cGKSxSPnkJyeWZObnMYhjkQTRDCwMjAxMDMxAmgHIgkAYQJIDAA==)
+  last-modified (1572530429765)
+}
 train (t-5nu7q905q6bfwe4mcn7ip0xfu) {
   utterance ("[g:httpCall] (중랑구)[v:LocationDB:\"Jungnang District\"] (페릿)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

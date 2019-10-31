@@ -3,3 +3,8 @@ train (t-76fkom3yssu1zeln6luzzoye6) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455444844)
 }
+train (t-775qns9vzck6g8bv5dbuhdxhg) {
+  utterance ("[g:httpCall] (대구시)[v:Location:Daegu] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCBRdIbSGPX5pOfnFiSmZ/HII5FEkQzsDAwMjAxMANpBiALAmEASQ4A)
+  last-modified (1572515402584)
+}

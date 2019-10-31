@@ -1,7 +1,7 @@
 vocab(KindDB){
-"Golden Retriever"{"골든 리트리버"}
-"greyhound"{"그레이 하운드"}
-"Great Den"{"그레이트 덴"}
+"Golden Retriever"{"골든 리트리버","골든리트리버","골드리트리버", "골드 리트리버"}
+"greyhound"{"그레이 하운드", "그레이하운드"}
+"Great Den"{"그레이트 덴", "그레이트덴"}
 "Great Pyrenees"{"그레이트 피레니즈"}
 "Guitar"{"기타"}
 "Dung de Turea"{"꼬똥 드 뚤레아"}
@@ -79,10 +79,10 @@ vocab(KindDB){
 "Staffordshire Boulterier"{"스테포드셔불테리어"}
 "Spitz"{"스피츠"}
 "Shiva"{"시바"}
-"Siberian Husky"{"시베리안 허스키"}
+"Siberian Husky"{"시베리안 허스키", "시베리안허스키"}
 "Siberian Laika"{"시베리안라이카"}
 "Shi Ying Franz"{"시잉프랑세즈"}
-"Shih Tzu"{"시츄"}
+"Shih Tzu"{"시츄","시추"}
 "Shikoku"{"시코쿠"}
 "Ciliham Terrier"{"실리햄 테리어"}
 "Silky Terrier"{"실키테리어"}
@@ -108,7 +108,7 @@ vocab(KindDB){
 "Old English Easy Dog"{"올드 잉글리쉬 쉽독"}
 "Wi-Maran"{"와이마라너"}
 "Wire Fox Terrier"{"와이어 폭스 테리어"}
-"Yorkshire Terrier"{"요크셔 테리어"}
+"Yorkshire Terrier"{"요크셔 테리어","요크셔테리어"}
 "Wolfdog"{"울프독"}
 "West Highland White Terrier"{"웨스트하이랜드화이트테리어"}
 "Welsh Cogie Cardigan"{"웰시 코기 카디건"}
@@ -156,7 +156,7 @@ vocab(KindDB){
 "Pug"{"퍼그"}
 "Pekiniz"{"페키니즈"}
 "Petterdale Terrier"{"페터데일테리어"}
-"Pomeranian"{"포메라니안"}
+"Pomeranian"{"포메라니안","포메"}
 "Pointer"{"포인터"}
 "Foxerrier"{"폭스테리어"}
 "Poodle"{"푸들"}
@@ -174,5 +174,4 @@ vocab(KindDB){
 "Whiteitreiber"{"화이트리트리버"}
 "White Terrier"{"화이트테리어"}
 "Whippet"{"휘펫"}
-
 }

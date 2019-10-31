@@ -20,20 +20,20 @@ module.exports.function = function httpCall (inputDate, kinds,kindN ,find, locat
     }else if (kinds == 'Etc') {
       kinds = 429900}
 
-if(kindDB){
+
   for(var i = 0; i < Dummy_Dog.length ; i++){
     if(kindDB == Dummy_Dog[i].name){
     var kindN = Dummy_Dog[i].kind
-    kinds = 417000}
+    var kinds = 417000}
     }
-}
-else if(kindDB){
+
+
   for(var i = 0; i < Dummy_Cat.length ; i++){
-    if(kindDB == Dummy_Cat[i].name){
+    if(kindDBcat == Dummy_Cat[i].name){
     var kindN = Dummy_Cat[i].kind
-    kinds = 422400}
+    var kinds = 422400}
     }
-}
+
 
   for(var i = 0; i < Dummy_Location.length ; i++){
     if(locationDB == Dummy_Location[i].orgdownNm){

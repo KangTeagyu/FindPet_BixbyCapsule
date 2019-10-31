@@ -1,7 +1,7 @@
 train (t-071hi0u3kzafetqbbd2y7fzjx) {
   utterance ("[g:httpcallkind] (차우차우)[v:KindDB:'Chow Chow'] (찾아줘)[v:find:findby]")
-  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
-  last-modified (1572455726246)
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDHIpdRUlKQnJiTkw3kM0hiUeANpF2cGMSxSIFoBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1572513590631)
 }
 train (t-09gjc953gdc22yf98zlfhdpss) {
   utterance ("[g:httpcallkind] (터키시 앙고라)[v:KindDBcat:'Turkish Angora'] (찾아줘)[v:find:findby]")

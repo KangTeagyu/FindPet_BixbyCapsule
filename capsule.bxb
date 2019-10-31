@@ -1,9 +1,8 @@
 capsule {
-  id (httpcall.testt)
-  version (1.0.1)
+  id (inha_bixby.findpet)
+  version (1.0.2)
   format (3)
   targets {
-    //target (bixby-mobile-en-US)
     target (bixby-mobile-ko-KR)
   }
   capsule-imports {
