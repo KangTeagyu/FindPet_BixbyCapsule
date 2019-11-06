@@ -12,11 +12,13 @@ capsule-info {
       keyword (동물 찾기)
       keyword (애완견 찾기)
     }
-    dispatch-name(또하나의가족)
+    dispatch-name(또 하나의 가족)
     dispatch-aliases{
-      alias (하나가족)
+      alias (또하나의 가족)
       alias (또하나가족)
       alias (하나의가족)
+      alias (또하나의가족)
+      alias (또 하나의가족)
     }
 
 }
