@@ -1,3 +1,8 @@
+train (t-80zs6ql1xnfz3l3nlqinmlo4l) {
+  utterance ("[g:httpCall] (서울시)[v:Location:Seoul] (시츄)[v:KindDB:'Shih Tzu'] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4YdXnk5+cWJKZn8cgjkUSRDOwMDAyMDEwA2kGIAsCYQBJDgA=)
+  last-modified (1573704225980)
+}
 train (t-85fr75zra0zv5i2w0x7lvwnge) {
   utterance ("[g:httpCall] (용인시)[v:LocationDB:Yongin] (토끼)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

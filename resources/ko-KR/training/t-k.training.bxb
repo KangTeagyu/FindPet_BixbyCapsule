@@ -8,6 +8,11 @@ train (t-k2qc8er6medckwcihldw6ukzs) {
   plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGYTTRNKAoAzMDIwMTkGQA0iAIAXBRAA==)
   last-modified (1572455447320)
 }
+train (t-kb01c00jc90uwd4v52z77c7k6) {
+  utterance ("[g:httpCall] (서울시)[v:Location:Seoul] (시바)[v:KindDB:Shiva] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4YdXnk5+cWJKZn8cgjkUSRDOwMDAyMDEwA2kGIAsCYQBJDgA=)
+  last-modified (1573704211645)
+}
 train (t-kdp36ch9no4hummg5myinp9ei) {
   utterance ("[g:httpCall] (해운대구)[v:LocationDB:\"Haeundae District\"] (닭)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
@@ -22,4 +27,9 @@ train (t-ksct8pdk8l457mckzme91byvj) {
   utterance ("[g:httpCall] (양주시)[v:LocationDB:\"Yangju\"] (거북이)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455447448)
+}
+train (t-kwz2vt1j2e0olyzhfuy9pfdxa) {
+  utterance ("[g:httpCall] (한국고양이)[v:KindDBcat:'Korean cat'] (찾아줘)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCDRdIbSLs4JSeWMIhjkQXRDMwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1573703763584)
 }

@@ -1,3 +1,8 @@
+train (t-x2y79u4d2f2xsf3cqnqpzul9f) {
+  utterance ("[g:httpCall] (시바)[v:KindDB:Shiva] (찾아줘)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4MYhjkQLRDMwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1573702816506)
+}
 train (t-x3b04e94ooc8vhfdq7iatkdox) {
   utterance ("[g:httpCall] (개)[v:Kinds:Dog] (검색결과 보여줘)[v:find:findby]")
   plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGYTTRNKAoAzMDIwMTkGQA0iAIAXBRAA==)
@@ -7,6 +12,11 @@ train (t-x7tpa4ehtd2s8e7x9sqqr4ho5) {
   utterance ("[g:httpCall] (성동구)[v:LocationDB:\"Seongdong District\"] (기타)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455451101)
+}
+train (t-xp4crfqms405893so3w6yhjoy) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (고양이)[v:Kinds:Cat]를 (찾아라)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCBRdIbSBcziGORAdEMzAyMDExAkgFIgyAEwEUB)
+  last-modified (1574075577524)
 }
 train (t-xtmeaaiemjlvhn75li9lrddiy) {
   utterance ("[g:httpCall] (기장군)[v:LocationDB:\"Gijang County\"] (냥냥이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")

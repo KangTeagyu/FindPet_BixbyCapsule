@@ -9,9 +9,9 @@ train (t-v6yh22j3qqzrquzpemi079ci2) {
   last-modified (1572455450616)
 }
 train (t-v8bb1ie6853tg7xixg8mmx29u) {
-  utterance ("[g:httpcallkind] (광주시)[v:Location:Gwangju]에서 (샴)[v:KindDBcat:Siamese] (찾아줘)[v:find:findby]")
-  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDHIpdRUlKQnJiTkw3kM8hgUeANpF2ckhNLGKSxyPrkA2Uy8/MYxLFIgmgGFgZGBiYGZiDNAGRBIAwgyQEA)
-  last-modified (1572530650347)
+  utterance ("[g:httpCall] (광주시)[v:Location:Gwangju]에서 (샴)[v:KindDBcat:Siamese] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCDRdIbSLs4JSeWYNXqkw+UyczPYxDHIgmiGVgYGBmYGJiBNAOQBYEwgCQHAA==)
+  last-modified (1573702649985)
 }
 train (t-v9cspb3qzjdxqq7fmktfi7hvp) {
   utterance ("[g:httpCall] (광주)[v:Location:Gwangju]에서 (고양이)[v:Kinds:Cat] (검색해줘)[v:find:findby]")

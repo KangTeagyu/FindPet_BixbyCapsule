@@ -18,6 +18,11 @@ train (t-p2310txclynp7e1ne7l3slagp) {
   plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGYTTRNKAoAzMDIwMTkGQA0iAIAXBRAA==)
   last-modified (1572455448454)
 }
+train (t-p2mf5ai3h6b46ximip8q0em3r) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (치와와)[v:KindDB:Chihuahua]를 (찾아라)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4MYhjkQLRDMwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1574075132367)
+}
 train (t-p5cf8ij3aof4keyt5k05asqzr) {
   utterance ("[g:httpCall] (달서구)[v:LocationDB:\"Dalseo District\"] (오리)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

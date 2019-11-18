@@ -23,6 +23,11 @@ train (t-rdlphece05uqhxw6abqsrhdqi) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455449811)
 }
+train (t-rjsql6hpt0pqog8a3124oq83o) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (고양이)[v:Kinds:Cat] 좀 (찾아봐)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCBRdIbSBcziGORAdEMzAyMDExAkgFIgyAEwEUB)
+  last-modified (1574063847093)
+}
 train (t-rpnc8mfh3c671i601przk9ili) {
   utterance ("[g:httpCall] (고양이)[v:Kinds:Cat] (찾아줘)[v:find:findby]")
   plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGYTTRNKAoAzMDIwMTkGQA0iAIAXBRAA==)

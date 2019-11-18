@@ -23,3 +23,8 @@ train (t-coc63siisgqy96etk6oeakad8) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455445704)
 }
+train (t-cyhhf2gfb7ectkr3tro6siavu) {
+  utterance ("[g:httpCall] (기타고양이)[v:KindDBcat:'Korean cat'] (찾아줘)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCDRdIbSLs4JSeWMIhjkQXRDMwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1573704222435)
+}

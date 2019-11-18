@@ -18,6 +18,11 @@ train (t-mqhd6asx252e82o1rnmpdzv98) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455447883)
 }
+train (t-mvyu5or508pivt5ucf6lofpqt) {
+  utterance ("[g:httpCall] (버만)[v:KindDBcat:Berman] (찾아줘)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCDRdIbSLs4JSeWMIhjkQXRDMwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1573704235178)
+}
 train (t-mw1t6cwirf6xfxznugvd7oasv) {
   utterance ("[g:httpCall] (구로구)[v:LocationDB:\"Kurogu\"] (잃어버린강아지)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

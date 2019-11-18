@@ -1,3 +1,8 @@
+train (t-j1berqs7sts8z1x6njcn5ux6b) {
+  utterance ("[g:httpCall] (서울시)[v:Location:Seoul] (시바견)[v:KindDB:Shiva] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4YdXnk5+cWJKZn8cgjkUSRDOwMDAyMDEwA2kGIAsCYQBJDgA=)
+  last-modified (1573704171954)
+}
 train (t-j8g0meitdcwfqtn7wwpcbnly7) {
   utterance ("[g:httpCall] (양양)[v:LocationDB:'Yangyang County'] (댕댕이)[v:Kinds:Dog] (검색)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

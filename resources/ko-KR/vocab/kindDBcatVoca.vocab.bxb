@@ -29,7 +29,7 @@ vocab(KindDBcat){
 "Persian-Persian Chinchilla"{"페르시안-페르시안 친칠라"}
 "Havana Brown"{"하바나 브라운"}
 "Highland Fold"{"하일랜드 폴드"}
-"Korean cat"{"한국 고양이"}
+"Korean cat"{"한국고양이","잡종고양이","기타고양이"}
 
 
 }

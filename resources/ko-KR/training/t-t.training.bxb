@@ -3,6 +3,11 @@ train (t-t4iej7oaznyfc5hpcsci82xk0) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455450401)
 }
+train (t-tcnmvewb6sslt9kl3nhp8i8rf) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (대전시)[v:Location:Daejeon] (기타동물)[v:Kinds:Etc] 좀 (찾아봐)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCBRdIbSGPX5pOfnFiSmZ/HII5FEkQzsDAwMjAxMANpBiALAmEASQ4A)
+  last-modified (1574074605799)
+}
 train (t-tez6nw0chn4kahf5vdezpe41x) {
   utterance ("[g:httpCall] (여주시)[v:LocationDB:\"Yeoju\"] (이구아나)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

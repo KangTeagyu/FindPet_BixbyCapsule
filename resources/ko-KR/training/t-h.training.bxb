@@ -18,6 +18,11 @@ train (t-h9rd0naq1cmwwfs5kx3qaycqn) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455446817)
 }
+train (t-hnnye6c83w0w7cvrkmktfvuhi) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (인천)[v:Location:Incheon] (강아지)[v:Kinds:Dog] (찾아보자)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCBRdIbSGPX5pOfnFiSmZ/HII5FEkQzsDAwMjAxMANpBiALAmEASQ4A)
+  last-modified (1574074485816)
+}
 train (t-hr9kjhwtq1xeplzp5qq9p4rgu) {
   utterance ("[g:httpCall] (연제구)[v:LocationDB:\"Yeonje District\"] (앵무새)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

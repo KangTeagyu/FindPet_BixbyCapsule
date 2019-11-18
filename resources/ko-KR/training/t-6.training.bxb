@@ -8,6 +8,11 @@ train (t-6700v9qfr7o3knsc08f7xe48e) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455444436)
 }
+train (t-6gjag5vmkq5iro6wuugv7ql74) {
+  utterance ("[g:httpCall] (서울)[v:Location:Seoul] (시바견)[v:KindDB:Shiva] (찾아줘)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4YdXnk5+cWJKZn8cgjkUSRDOwMDAyMDEwA2kGIAsCYQBJDgA=)
+  last-modified (1573705434642)
+}
 train (t-6klybqi9cxvl26ke9iwjt9bet) {
   utterance ("[g:httpCall] (남구)[v:LocationDB:\"Nam-gu\"] (앵무새)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

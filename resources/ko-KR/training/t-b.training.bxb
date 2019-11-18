@@ -1,3 +1,8 @@
+train (t-b9a3m7vk8hh8ebrkt462cqrsx) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (강아지)[v:Kinds:Dog] (찾아야 해)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCBRdIbSBcziGORAdEMzAyMDExAkgFIgyAEwEUB)
+  last-modified (1574075061491)
+}
 train (t-bfoskr2py0f4am2ej6bklp0iy) {
   utterance ("[g:httpCall] (관악구)[v:LocationDB:\"Gwanak-gu\"] (유기견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)

@@ -23,8 +23,3 @@ train (t-pqrdjeb122a7xb418jov8w237) {
   plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
   last-modified (1572458060873)
 }
-train (t-ptwm0tuv5ine9qrdc51omngb3) {
-  utterance ("[g:httpcallkind] (버만)[v:KindDBcat:'Berman'] (찾아줘)[v:find:findby]")
-  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGCTQJL2Bgi5OyYklDMJoMmkg5cwMjAxMQJIBSIMgBMBFAQ==)
-  last-modified (1572458060919)
-}

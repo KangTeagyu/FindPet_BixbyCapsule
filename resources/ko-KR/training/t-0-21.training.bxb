@@ -33,8 +33,3 @@ train (t-kycefgtxeoiv6rmrkv5f8khao) {
   plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
   last-modified (1572458059460)
 }
-train (t-kzmot2t5a9us4c6ilasmnyhla) {
-  utterance ("[g:httpcallkind] (시바)[v:KindDB:'Shiva'] (찾아줘)[v:find:findby]")
-  plan (Y2BhEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmkEYTh3GzM/NSGETRJL2Bgi5ODMJowmkgtcwMjAxMQJIBSIMgBMBFAQ==)
-  last-modified (1572458059513)
-}

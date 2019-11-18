@@ -1,0 +1,5 @@
+train (t-2sowfru24t0egnwsd5p0cdhjt) {
+  utterance ("[g:httpCall] 또 하나의 가족에서 (대구)[v:Location:Daegu] (말티즈)[v:KindDB:Maltese] (찾을래)[v:find:findby]")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4YdXnk5+cWJKZn8cgjkUSRDOwMDAyMDEwA2kGIAsCYQBJDgA=)
+  last-modified (1574075252044)
+}

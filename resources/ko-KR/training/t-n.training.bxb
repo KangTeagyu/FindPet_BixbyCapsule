@@ -8,6 +8,11 @@ train (t-n8r8zqz8vvr98bi1yn6e5oitj) {
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455448053)
 }
+train (t-ng4z0ieh5g2doj0lw0a3gejn8) {
+  utterance ("[g:httpCall] (잡종고양이)[v:KindDBcat:'Korean cat'] (찾아줘)[v:find:findby]")
+  plan (Y2BhkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCDRdIbSLs4JSeWMIhjkQXRDMwMjAxMQJIBSIMgBMBFAQ==)
+  last-modified (1573703837232)
+}
 train (t-nhzolw7rra6dcg9xd92ppdgeg) {
   utterance ("[g:httpCall] (과천시)[v:LocationDB:\"Gwacheon\"] (실종견)[v:Kinds:Dog] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
@@ -27,4 +32,9 @@ train (t-nylnqc5m0k9dtm94zdb2nq4ij) {
   utterance ("[g:httpCall] (화천군)[v:LocationDB:\"Hwacheon County\"] (뱀)[v:Kinds:Etc] (찾아줘)[v:find:findby]")
   plan (Y2BlEMsoKSlITszJ0StJLS4p0QtKLS7NKSlmEEcTB3GdgVwGETQJ78y8lGIGSTRRn/zkxJLM/DwXJwZhNKk0oAYGFgZGBiYGZiDNAGRBIAwgyQEA)
   last-modified (1572455448248)
+}
+train (t-nzl2u9xzvzhvf6k9jai9xg8rf) {
+  utterance ("[g:httpCall] (울산)[v:Location:Ulsan] (시츄)[v:KindDB:'Shih Tzu'] (찾아줘)[v:find:findby] ")
+  plan (Y2BlkMrMy0iMT8qsSKrUS8vMSylILdELSi0uzSkpZpDGIpdRUlLgnJiTwyCJRdIbSLs4YdXnk5+cWJKZn8cgjkUSRDOwMDAyMDEwA2kGIAsCYQBJDgA=)
+  last-modified (1573705541735)
 }
